@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="345.6pt" viewBox="0 0 460.8 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-04-03T16:41:41.607360</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 460.8 345.6 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="LineCollection_1">
+    <path d="M 267.677689 220.083633 
+L 288.851224 220.871211 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 267.677689 220.083633 
+L 256.890638 206.617425 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 288.851224 220.871211 
+L 301.405028 211.195708 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 288.851224 220.871211 
+L 220.354239 220.083633 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 288.851224 220.871211 
+L 340.891485 230.166519 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 288.851224 220.871211 
+L 310.1581 189.518772 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 288.851224 220.871211 
+L 267.395323 237.715458 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 288.851224 220.871211 
+L 220.354239 237.715566 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 288.851224 220.871211 
+L 322.900163 238.339949 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 267.072009 103.302971 
+L 254.890989 117.363608 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 267.072009 103.302971 
+L 321.04693 103.302971 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 321.04693 103.302971 
+L 267.072009 84.397495 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 321.04693 103.302971 
+L 322.900163 84.397495 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 321.04693 103.302971 
+L 301.211285 112.90024 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 321.04693 103.302971 
+L 340.900924 93.798091 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 321.04693 103.302971 
+L 309.671993 137.166297 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 193.154617 84.397495 
+L 138.58653 103.302971 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 193.154617 84.397495 
+L 202.388468 50.742955 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.58653 103.302971 
+L 118.545673 94.006254 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.58653 103.302971 
+L 150.96583 137.166297 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.58653 103.302971 
+L 158.627388 113.31532 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.58653 103.302971 
+L 193.154617 103.302971 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.58653 103.302971 
+L 137.131554 84.397495 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 386.787053 307.311842 
+L 376.387811 233.976619 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 376.387811 233.976619 
+L 340.891485 230.166519 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 376.387811 233.976619 
+L 340.893462 181.357868 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 301.405028 211.195708 
+L 293.619543 207.48876 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 118.545673 94.006254 
+L 83.731756 89.487527 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 83.731756 89.487527 
+L 48.912397 45.939687 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 83.731756 89.487527 
+L 118.545673 143.240813 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 150.96583 137.166297 
+L 225.598798 162.05119 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 225.598798 162.05119 
+L 309.671993 137.166297 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 225.598798 162.05119 
+L 310.1581 189.518772 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 225.598798 162.05119 
+L 255.881793 170.792822 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 225.598798 162.05119 
+L 151.526847 189.518772 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 137.13413 237.715566 
+L 138.294166 213.617739 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 137.13413 237.715566 
+L 146.074207 272.514273 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.294166 213.617739 
+L 117.583179 230.693311 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.294166 213.617739 
+L 159.01683 203.582206 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.294166 213.617739 
+L 159.017207 221.55157 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 138.294166 213.617739 
+L 151.526847 189.518772 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 267.072009 84.397495 
+L 258.216039 50.742955 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 220.354239 220.083633 
+L 217.465361 204.788244 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 322.900163 84.397495 
+L 313.557503 50.742955 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 411.887603 45.519861 
+L 376.387811 88.864283 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 376.387811 88.864283 
+L 340.893462 145.655497 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 376.387811 88.864283 
+L 340.900924 93.798091 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 75.37498 307.311842 
+L 83.244482 234.599863 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 83.244482 234.599863 
+L 117.583179 182.911704 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 83.244482 234.599863 
+L 117.583179 230.693311 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 158.627388 113.31532 
+L 167.180457 115.871928 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 301.211285 112.90024 
+L 292.16064 115.767846 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 340.893462 145.655497 
+L 329.508571 148.903223 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 193.154617 103.302971 
+L 204.737848 117.416555 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 117.583179 182.911704 
+L 130.123722 175.703328 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 137.131554 84.397495 
+L 146.561481 50.742955 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 255.881793 170.792822 
+L 271.745102 174.456841 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 267.395323 237.715458 
+L 257.827387 272.51365 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 159.01683 203.582206 
+L 170.779863 203.749297 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 220.354239 237.715566 
+L 202.583464 272.513817 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 322.900163 238.339949 
+L 312.973942 272.51365 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 340.893462 181.357868 
+L 329.508571 175.080084 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 159.017207 221.55157 
+L 184.690965 220.920124 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+    <path d="M 118.545673 143.240813 
+L 130.610996 149.526467 
+" clip-path="url(#pd10f09e5f8)" style="fill: none; stroke: #00ffff"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m4a63693d1c" d="M 0 3.162278 
+C 0.838646 3.162278 1.643056 2.82908 2.236068 2.236068 
+C 2.82908 1.643056 3.162278 0.838646 3.162278 0 
+C 3.162278 -0.838646 2.82908 -1.643056 2.236068 -2.236068 
+C 1.643056 -2.82908 0.838646 -3.162278 0 -3.162278 
+C -0.838646 -3.162278 -1.643056 -2.82908 -2.236068 -2.236068 
+C -2.82908 -1.643056 -3.162278 -0.838646 -3.162278 0 
+C -3.162278 0.838646 -2.82908 1.643056 -2.236068 2.236068 
+C -1.643056 2.82908 -0.838646 3.162278 0 3.162278 
+z
+" style="stroke: #0000ff"/>
+    </defs>
+    <g clip-path="url(#pd10f09e5f8)">
+     <use xlink:href="#m4a63693d1c" x="267.677689" y="220.083633" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="288.851224" y="220.871211" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="256.890638" y="206.617425" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="267.072009" y="103.302971" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="254.890989" y="117.363608" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="321.04693" y="103.302971" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="193.154617" y="84.397495" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="138.58653" y="103.302971" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="202.388468" y="50.742955" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="386.787053" y="307.311842" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="376.387811" y="233.976619" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="301.405028" y="211.195708" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="293.619543" y="207.48876" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="118.545673" y="94.006254" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="83.731756" y="89.487527" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="150.96583" y="137.166297" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="225.598798" y="162.05119" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="137.13413" y="237.715566" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="138.294166" y="213.617739" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="146.074207" y="272.514273" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="267.072009" y="84.397495" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="258.216039" y="50.742955" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="220.354239" y="220.083633" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="217.465361" y="204.788244" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="322.900163" y="84.397495" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="313.557503" y="50.742955" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="411.887603" y="45.519861" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="376.387811" y="88.864283" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="75.37498" y="307.311842" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="83.244482" y="234.599863" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="158.627388" y="113.31532" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="167.180457" y="115.871928" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="301.211285" y="112.90024" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="292.16064" y="115.767846" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="340.893462" y="145.655497" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="329.508571" y="148.903223" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="340.891485" y="230.166519" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="340.900924" y="93.798091" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="193.154617" y="103.302971" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="204.737848" y="117.416555" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="309.671993" y="137.166297" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="310.1581" y="189.518772" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="117.583179" y="182.911704" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="130.123722" y="175.703328" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="137.131554" y="84.397495" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="146.561481" y="50.742955" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="255.881793" y="170.792822" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="271.745102" y="174.456841" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="267.395323" y="237.715458" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="257.827387" y="272.51365" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="48.912397" y="45.939687" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="117.583179" y="230.693311" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="159.01683" y="203.582206" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="170.779863" y="203.749297" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="220.354239" y="237.715566" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="202.583464" y="272.513817" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="322.900163" y="238.339949" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="312.973942" y="272.51365" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="340.893462" y="181.357868" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="329.508571" y="175.080084" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="159.017207" y="221.55157" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="184.690965" y="220.920124" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="118.545673" y="143.240813" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="130.610996" y="149.526467" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="151.526847" y="189.518772" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="181.770659" y="192.219288" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="195.094534" y="132.802967" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="185.562641" y="203.749297" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="264.343434" y="132.698886" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="293.619543" y="192.219288" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="292.16064" y="132.698886" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="167.180457" y="132.802967" style="fill: #0000ff; stroke: #0000ff"/>
+     <use xlink:href="#m4a63693d1c" x="265.802921" y="192.219288" style="fill: #0000ff; stroke: #0000ff"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <!-- InternalDoor -->
+    <g transform="translate(257.250616 233.67712)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-49" d="M 597 0 
+L 597 4581 
+L 1203 4581 
+L 1203 0 
+L 597 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-6e" d="M 422 0 
+L 422 3319 
+L 928 3319 
+L 928 2847 
+Q 1294 3394 1984 3394 
+Q 2284 3394 2536 3286 
+Q 2788 3178 2913 3003 
+Q 3038 2828 3088 2588 
+Q 3119 2431 3119 2041 
+L 3119 0 
+L 2556 0 
+L 2556 2019 
+Q 2556 2363 2490 2533 
+Q 2425 2703 2258 2804 
+Q 2091 2906 1866 2906 
+Q 1506 2906 1245 2678 
+Q 984 2450 984 1813 
+L 984 0 
+L 422 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-74" d="M 1650 503 
+L 1731 6 
+Q 1494 -44 1306 -44 
+Q 1000 -44 831 53 
+Q 663 150 594 308 
+Q 525 466 525 972 
+L 525 2881 
+L 113 2881 
+L 113 3319 
+L 525 3319 
+L 525 4141 
+L 1084 4478 
+L 1084 3319 
+L 1650 3319 
+L 1650 2881 
+L 1084 2881 
+L 1084 941 
+Q 1084 700 1114 631 
+Q 1144 563 1211 522 
+Q 1278 481 1403 481 
+Q 1497 481 1650 503 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-65" d="M 2694 1069 
+L 3275 997 
+Q 3138 488 2766 206 
+Q 2394 -75 1816 -75 
+Q 1088 -75 661 373 
+Q 234 822 234 1631 
+Q 234 2469 665 2931 
+Q 1097 3394 1784 3394 
+Q 2450 3394 2872 2941 
+Q 3294 2488 3294 1666 
+Q 3294 1616 3291 1516 
+L 816 1516 
+Q 847 969 1125 678 
+Q 1403 388 1819 388 
+Q 2128 388 2347 550 
+Q 2566 713 2694 1069 
+z
+M 847 1978 
+L 2700 1978 
+Q 2663 2397 2488 2606 
+Q 2219 2931 1791 2931 
+Q 1403 2931 1139 2672 
+Q 875 2413 847 1978 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-72" d="M 416 0 
+L 416 3319 
+L 922 3319 
+L 922 2816 
+Q 1116 3169 1280 3281 
+Q 1444 3394 1641 3394 
+Q 1925 3394 2219 3213 
+L 2025 2691 
+Q 1819 2813 1613 2813 
+Q 1428 2813 1281 2702 
+Q 1134 2591 1072 2394 
+Q 978 2094 978 1738 
+L 978 0 
+L 416 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-61" d="M 2588 409 
+Q 2275 144 1986 34 
+Q 1697 -75 1366 -75 
+Q 819 -75 525 192 
+Q 231 459 231 875 
+Q 231 1119 342 1320 
+Q 453 1522 633 1644 
+Q 813 1766 1038 1828 
+Q 1203 1872 1538 1913 
+Q 2219 1994 2541 2106 
+Q 2544 2222 2544 2253 
+Q 2544 2597 2384 2738 
+Q 2169 2928 1744 2928 
+Q 1347 2928 1158 2789 
+Q 969 2650 878 2297 
+L 328 2372 
+Q 403 2725 575 2942 
+Q 747 3159 1072 3276 
+Q 1397 3394 1825 3394 
+Q 2250 3394 2515 3294 
+Q 2781 3194 2906 3042 
+Q 3031 2891 3081 2659 
+Q 3109 2516 3109 2141 
+L 3109 1391 
+Q 3109 606 3145 398 
+Q 3181 191 3288 0 
+L 2700 0 
+Q 2613 175 2588 409 
+z
+M 2541 1666 
+Q 2234 1541 1622 1453 
+Q 1275 1403 1131 1340 
+Q 988 1278 909 1158 
+Q 831 1038 831 891 
+Q 831 666 1001 516 
+Q 1172 366 1500 366 
+Q 1825 366 2078 508 
+Q 2331 650 2450 897 
+Q 2541 1088 2541 1459 
+L 2541 1666 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-6c" d="M 409 0 
+L 409 4581 
+L 972 4581 
+L 972 0 
+L 409 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-44" d="M 494 0 
+L 494 4581 
+L 2072 4581 
+Q 2606 4581 2888 4516 
+Q 3281 4425 3559 4188 
+Q 3922 3881 4101 3404 
+Q 4281 2928 4281 2316 
+Q 4281 1794 4159 1391 
+Q 4038 988 3847 723 
+Q 3656 459 3429 307 
+Q 3203 156 2883 78 
+Q 2563 0 2147 0 
+L 494 0 
+z
+M 1100 541 
+L 2078 541 
+Q 2531 541 2789 625 
+Q 3047 709 3200 863 
+Q 3416 1078 3536 1442 
+Q 3656 1806 3656 2325 
+Q 3656 3044 3420 3430 
+Q 3184 3816 2847 3947 
+Q 2603 4041 2063 4041 
+L 1100 4041 
+L 1100 541 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-6f" d="M 213 1659 
+Q 213 2581 725 3025 
+Q 1153 3394 1769 3394 
+Q 2453 3394 2887 2945 
+Q 3322 2497 3322 1706 
+Q 3322 1066 3130 698 
+Q 2938 331 2570 128 
+Q 2203 -75 1769 -75 
+Q 1072 -75 642 372 
+Q 213 819 213 1659 
+z
+M 791 1659 
+Q 791 1022 1069 705 
+Q 1347 388 1769 388 
+Q 2188 388 2466 706 
+Q 2744 1025 2744 1678 
+Q 2744 2294 2464 2611 
+Q 2184 2928 1769 2928 
+Q 1347 2928 1069 2612 
+Q 791 2297 791 1659 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- InternalHallway -->
+    <g transform="translate(273.667753 239.138233)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-48" d="M 513 0 
+L 513 4581 
+L 1119 4581 
+L 1119 2700 
+L 3500 2700 
+L 3500 4581 
+L 4106 4581 
+L 4106 0 
+L 3500 0 
+L 3500 2159 
+L 1119 2159 
+L 1119 0 
+L 513 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-77" d="M 1034 0 
+L 19 3319 
+L 600 3319 
+L 1128 1403 
+L 1325 691 
+Q 1338 744 1497 1375 
+L 2025 3319 
+L 2603 3319 
+L 3100 1394 
+L 3266 759 
+L 3456 1400 
+L 4025 3319 
+L 4572 3319 
+L 3534 0 
+L 2950 0 
+L 2422 1988 
+L 2294 2553 
+L 1622 0 
+L 1034 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-79" d="M 397 -1278 
+L 334 -750 
+Q 519 -800 656 -800 
+Q 844 -800 956 -737 
+Q 1069 -675 1141 -563 
+Q 1194 -478 1313 -144 
+Q 1328 -97 1363 -6 
+L 103 3319 
+L 709 3319 
+L 1400 1397 
+Q 1534 1031 1641 628 
+Q 1738 1016 1872 1384 
+L 2581 3319 
+L 3144 3319 
+L 1881 -56 
+Q 1678 -603 1566 -809 
+Q 1416 -1088 1222 -1217 
+Q 1028 -1347 759 -1347 
+Q 597 -1347 397 -1278 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-48" x="333.544922"/>
+     <use xlink:href="#ArialMT-61" x="405.761719"/>
+     <use xlink:href="#ArialMT-6c" x="461.376953"/>
+     <use xlink:href="#ArialMT-6c" x="483.59375"/>
+     <use xlink:href="#ArialMT-77" x="505.810547"/>
+     <use xlink:href="#ArialMT-61" x="578.027344"/>
+     <use xlink:href="#ArialMT-79" x="633.642578"/>
+    </g>
+   </g>
+   <g id="text_3">
+    <!-- Bathroom -->
+    <g transform="translate(250.590748 216.083729)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-42" d="M 469 0 
+L 469 4581 
+L 2188 4581 
+Q 2713 4581 3030 4442 
+Q 3347 4303 3526 4014 
+Q 3706 3725 3706 3409 
+Q 3706 3116 3547 2856 
+Q 3388 2597 3066 2438 
+Q 3481 2316 3704 2022 
+Q 3928 1728 3928 1328 
+Q 3928 1006 3792 729 
+Q 3656 453 3456 303 
+Q 3256 153 2954 76 
+Q 2653 0 2216 0 
+L 469 0 
+z
+M 1075 2656 
+L 2066 2656 
+Q 2469 2656 2644 2709 
+Q 2875 2778 2992 2937 
+Q 3109 3097 3109 3338 
+Q 3109 3566 3000 3739 
+Q 2891 3913 2687 3977 
+Q 2484 4041 1991 4041 
+L 1075 4041 
+L 1075 2656 
+z
+M 1075 541 
+L 2216 541 
+Q 2509 541 2628 563 
+Q 2838 600 2978 687 
+Q 3119 775 3209 942 
+Q 3300 1109 3300 1328 
+Q 3300 1584 3169 1773 
+Q 3038 1963 2805 2039 
+Q 2572 2116 2134 2116 
+L 1075 2116 
+L 1075 541 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-68" d="M 422 0 
+L 422 4581 
+L 984 4581 
+L 984 2938 
+Q 1378 3394 1978 3394 
+Q 2347 3394 2619 3248 
+Q 2891 3103 3008 2847 
+Q 3125 2591 3125 2103 
+L 3125 0 
+L 2563 0 
+L 2563 2103 
+Q 2563 2525 2380 2717 
+Q 2197 2909 1863 2909 
+Q 1613 2909 1392 2779 
+Q 1172 2650 1078 2428 
+Q 984 2206 984 1816 
+L 984 0 
+L 422 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-6d" d="M 422 0 
+L 422 3319 
+L 925 3319 
+L 925 2853 
+Q 1081 3097 1340 3245 
+Q 1600 3394 1931 3394 
+Q 2300 3394 2536 3241 
+Q 2772 3088 2869 2813 
+Q 3263 3394 3894 3394 
+Q 4388 3394 4653 3120 
+Q 4919 2847 4919 2278 
+L 4919 0 
+L 4359 0 
+L 4359 2091 
+Q 4359 2428 4304 2576 
+Q 4250 2725 4106 2815 
+Q 3963 2906 3769 2906 
+Q 3419 2906 3187 2673 
+Q 2956 2441 2956 1928 
+L 2956 0 
+L 2394 0 
+L 2394 2156 
+Q 2394 2531 2256 2718 
+Q 2119 2906 1806 2906 
+Q 1569 2906 1367 2781 
+Q 1166 2656 1075 2415 
+Q 984 2175 984 1722 
+L 984 0 
+L 422 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-61" x="66.699219"/>
+     <use xlink:href="#ArialMT-74" x="122.314453"/>
+     <use xlink:href="#ArialMT-68" x="150.097656"/>
+     <use xlink:href="#ArialMT-72" x="205.712891"/>
+     <use xlink:href="#ArialMT-6f" x="239.013672"/>
+     <use xlink:href="#ArialMT-6f" x="294.628906"/>
+     <use xlink:href="#ArialMT-6d" x="350.244141"/>
+    </g>
+   </g>
+   <g id="text_4">
+    <!-- InternalDoor -->
+    <g transform="translate(256.644936 116.896458)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- Bathroom -->
+    <g transform="translate(248.5911 126.829912)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-61" x="66.699219"/>
+     <use xlink:href="#ArialMT-74" x="122.314453"/>
+     <use xlink:href="#ArialMT-68" x="150.097656"/>
+     <use xlink:href="#ArialMT-72" x="205.712891"/>
+     <use xlink:href="#ArialMT-6f" x="239.013672"/>
+     <use xlink:href="#ArialMT-6f" x="294.628906"/>
+     <use xlink:href="#ArialMT-6d" x="350.244141"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- InternalHallway -->
+    <g transform="translate(305.863459 121.569992)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-48" x="333.544922"/>
+     <use xlink:href="#ArialMT-61" x="405.761719"/>
+     <use xlink:href="#ArialMT-6c" x="461.376953"/>
+     <use xlink:href="#ArialMT-6c" x="483.59375"/>
+     <use xlink:href="#ArialMT-77" x="505.810547"/>
+     <use xlink:href="#ArialMT-61" x="578.027344"/>
+     <use xlink:href="#ArialMT-79" x="633.642578"/>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- InternalDoor -->
+    <g transform="translate(182.727544 97.990982)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_8">
+    <!-- InternalHallway -->
+    <g transform="translate(123.403059 121.569992)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-48" x="333.544922"/>
+     <use xlink:href="#ArialMT-61" x="405.761719"/>
+     <use xlink:href="#ArialMT-6c" x="461.376953"/>
+     <use xlink:href="#ArialMT-6c" x="483.59375"/>
+     <use xlink:href="#ArialMT-77" x="505.810547"/>
+     <use xlink:href="#ArialMT-61" x="578.027344"/>
+     <use xlink:href="#ArialMT-79" x="633.642578"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- Bedroom -->
+    <g transform="translate(197.070794 59.227044)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-64" d="M 2575 0 
+L 2575 419 
+Q 2259 -75 1647 -75 
+Q 1250 -75 917 144 
+Q 584 363 401 755 
+Q 219 1147 219 1656 
+Q 219 2153 384 2558 
+Q 550 2963 881 3178 
+Q 1213 3394 1622 3394 
+Q 1922 3394 2156 3267 
+Q 2391 3141 2538 2938 
+L 2538 4581 
+L 3097 4581 
+L 3097 0 
+L 2575 0 
+z
+M 797 1656 
+Q 797 1019 1065 703 
+Q 1334 388 1700 388 
+Q 2069 388 2326 689 
+Q 2584 991 2584 1609 
+Q 2584 2291 2321 2609 
+Q 2059 2928 1675 2928 
+Q 1300 2928 1048 2622 
+Q 797 2316 797 1656 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-65" x="66.699219"/>
+     <use xlink:href="#ArialMT-64" x="122.314453"/>
+     <use xlink:href="#ArialMT-72" x="177.929688"/>
+     <use xlink:href="#ArialMT-6f" x="211.230469"/>
+     <use xlink:href="#ArialMT-6f" x="266.845703"/>
+     <use xlink:href="#ArialMT-6d" x="322.460938"/>
+    </g>
+   </g>
+   <g id="text_10">
+    <!-- BalconyDoor -->
+    <g transform="translate(375.532444 321.650001)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-63" d="M 2588 1216 
+L 3141 1144 
+Q 3050 572 2676 248 
+Q 2303 -75 1759 -75 
+Q 1078 -75 664 370 
+Q 250 816 250 1647 
+Q 250 2184 428 2587 
+Q 606 2991 970 3192 
+Q 1334 3394 1763 3394 
+Q 2303 3394 2647 3120 
+Q 2991 2847 3088 2344 
+L 2541 2259 
+Q 2463 2594 2264 2762 
+Q 2066 2931 1784 2931 
+Q 1359 2931 1093 2626 
+Q 828 2322 828 1663 
+Q 828 994 1084 691 
+Q 1341 388 1753 388 
+Q 2084 388 2306 591 
+Q 2528 794 2588 1216 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-61" x="66.699219"/>
+     <use xlink:href="#ArialMT-6c" x="122.314453"/>
+     <use xlink:href="#ArialMT-63" x="144.53125"/>
+     <use xlink:href="#ArialMT-6f" x="194.53125"/>
+     <use xlink:href="#ArialMT-6e" x="250.146484"/>
+     <use xlink:href="#ArialMT-79" x="305.761719"/>
+     <use xlink:href="#ArialMT-44" x="355.761719"/>
+     <use xlink:href="#ArialMT-6f" x="427.978516"/>
+     <use xlink:href="#ArialMT-6f" x="483.59375"/>
+     <use xlink:href="#ArialMT-72" x="539.208984"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <!-- LivingRoom -->
+    <g transform="translate(366.705962 246.742018)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-4c" d="M 469 0 
+L 469 4581 
+L 1075 4581 
+L 1075 541 
+L 3331 541 
+L 3331 0 
+L 469 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-69" d="M 425 3934 
+L 425 4581 
+L 988 4581 
+L 988 3934 
+L 425 3934 
+z
+M 425 0 
+L 425 3319 
+L 988 3319 
+L 988 0 
+L 425 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-76" d="M 1344 0 
+L 81 3319 
+L 675 3319 
+L 1388 1331 
+Q 1503 1009 1600 663 
+Q 1675 925 1809 1294 
+L 2547 3319 
+L 3125 3319 
+L 1869 0 
+L 1344 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-67" d="M 319 -275 
+L 866 -356 
+Q 900 -609 1056 -725 
+Q 1266 -881 1628 -881 
+Q 2019 -881 2231 -725 
+Q 2444 -569 2519 -288 
+Q 2563 -116 2559 434 
+Q 2191 0 1641 0 
+Q 956 0 581 494 
+Q 206 988 206 1678 
+Q 206 2153 378 2554 
+Q 550 2956 876 3175 
+Q 1203 3394 1644 3394 
+Q 2231 3394 2613 2919 
+L 2613 3319 
+L 3131 3319 
+L 3131 450 
+Q 3131 -325 2973 -648 
+Q 2816 -972 2473 -1159 
+Q 2131 -1347 1631 -1347 
+Q 1038 -1347 672 -1080 
+Q 306 -813 319 -275 
+z
+M 784 1719 
+Q 784 1066 1043 766 
+Q 1303 466 1694 466 
+Q 2081 466 2343 764 
+Q 2606 1063 2606 1700 
+Q 2606 2309 2336 2618 
+Q 2066 2928 1684 2928 
+Q 1309 2928 1046 2623 
+Q 784 2319 784 1719 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-52" d="M 503 0 
+L 503 4581 
+L 2534 4581 
+Q 3147 4581 3465 4457 
+Q 3784 4334 3975 4021 
+Q 4166 3709 4166 3331 
+Q 4166 2844 3850 2509 
+Q 3534 2175 2875 2084 
+Q 3116 1969 3241 1856 
+Q 3506 1613 3744 1247 
+L 4541 0 
+L 3778 0 
+L 3172 953 
+Q 2906 1366 2734 1584 
+Q 2563 1803 2427 1890 
+Q 2291 1978 2150 2013 
+Q 2047 2034 1813 2034 
+L 1109 2034 
+L 1109 0 
+L 503 0 
+z
+M 1109 2559 
+L 2413 2559 
+Q 2828 2559 3062 2645 
+Q 3297 2731 3419 2920 
+Q 3541 3109 3541 3331 
+Q 3541 3656 3305 3865 
+Q 3069 4075 2559 4075 
+L 1109 4075 
+L 1109 2559 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-4c"/>
+     <use xlink:href="#ArialMT-69" x="55.615234"/>
+     <use xlink:href="#ArialMT-76" x="77.832031"/>
+     <use xlink:href="#ArialMT-69" x="127.832031"/>
+     <use xlink:href="#ArialMT-6e" x="150.048828"/>
+     <use xlink:href="#ArialMT-67" x="205.664062"/>
+     <use xlink:href="#ArialMT-52" x="261.279297"/>
+     <use xlink:href="#ArialMT-6f" x="333.496094"/>
+     <use xlink:href="#ArialMT-6f" x="389.111328"/>
+     <use xlink:href="#ArialMT-6d" x="444.726562"/>
+    </g>
+   </g>
+   <g id="text_12">
+    <!-- InternalDoor -->
+    <g transform="translate(290.977954 224.789196)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <!-- Toilet -->
+    <g transform="translate(294.395141 209.879576)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-54" d="M 1659 0 
+L 1659 4041 
+L 150 4041 
+L 150 4581 
+L 3781 4581 
+L 3781 4041 
+L 2266 4041 
+L 2266 0 
+L 1659 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-54"/>
+     <use xlink:href="#ArialMT-6f" x="49.958984"/>
+     <use xlink:href="#ArialMT-69" x="105.574219"/>
+     <use xlink:href="#ArialMT-6c" x="127.791016"/>
+     <use xlink:href="#ArialMT-65" x="150.007812"/>
+     <use xlink:href="#ArialMT-74" x="205.623047"/>
+    </g>
+   </g>
+   <g id="text_14">
+    <!-- InternalDoor -->
+    <g transform="translate(108.118599 107.599742)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <!-- LivingRoom -->
+    <g transform="translate(74.049907 102.252926)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-4c"/>
+     <use xlink:href="#ArialMT-69" x="55.615234"/>
+     <use xlink:href="#ArialMT-76" x="77.832031"/>
+     <use xlink:href="#ArialMT-69" x="127.832031"/>
+     <use xlink:href="#ArialMT-6e" x="150.048828"/>
+     <use xlink:href="#ArialMT-67" x="205.664062"/>
+     <use xlink:href="#ArialMT-52" x="261.279297"/>
+     <use xlink:href="#ArialMT-6f" x="333.496094"/>
+     <use xlink:href="#ArialMT-6f" x="389.111328"/>
+     <use xlink:href="#ArialMT-6d" x="444.726562"/>
+    </g>
+   </g>
+   <g id="text_16">
+    <!-- UnitDoor -->
+    <g transform="translate(146.043141 145.2554)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-55" d="M 3500 4581 
+L 4106 4581 
+L 4106 1934 
+Q 4106 1244 3950 837 
+Q 3794 431 3386 176 
+Q 2978 -78 2316 -78 
+Q 1672 -78 1262 144 
+Q 853 366 678 786 
+Q 503 1206 503 1934 
+L 503 4581 
+L 1109 4581 
+L 1109 1938 
+Q 1109 1341 1220 1058 
+Q 1331 775 1601 622 
+Q 1872 469 2263 469 
+Q 2931 469 3215 772 
+Q 3500 1075 3500 1938 
+L 3500 4581 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-55"/>
+     <use xlink:href="#ArialMT-6e" x="72.216797"/>
+     <use xlink:href="#ArialMT-69" x="127.832031"/>
+     <use xlink:href="#ArialMT-74" x="150.048828"/>
+     <use xlink:href="#ArialMT-44" x="177.832031"/>
+     <use xlink:href="#ArialMT-6f" x="250.048828"/>
+     <use xlink:href="#ArialMT-6f" x="305.664062"/>
+     <use xlink:href="#ArialMT-72" x="361.279297"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <!-- Stairway -->
+    <g transform="translate(221.071094 169.748622)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-53" d="M 288 1472 
+L 859 1522 
+Q 900 1178 1048 958 
+Q 1197 738 1509 602 
+Q 1822 466 2213 466 
+Q 2559 466 2825 569 
+Q 3091 672 3220 851 
+Q 3350 1031 3350 1244 
+Q 3350 1459 3225 1620 
+Q 3100 1781 2813 1891 
+Q 2628 1963 1997 2114 
+Q 1366 2266 1113 2400 
+Q 784 2572 623 2826 
+Q 463 3081 463 3397 
+Q 463 3744 659 4045 
+Q 856 4347 1234 4503 
+Q 1613 4659 2075 4659 
+Q 2584 4659 2973 4495 
+Q 3363 4331 3572 4012 
+Q 3781 3694 3797 3291 
+L 3216 3247 
+Q 3169 3681 2898 3903 
+Q 2628 4125 2100 4125 
+Q 1550 4125 1298 3923 
+Q 1047 3722 1047 3438 
+Q 1047 3191 1225 3031 
+Q 1400 2872 2139 2705 
+Q 2878 2538 3153 2413 
+Q 3553 2228 3743 1945 
+Q 3934 1663 3934 1294 
+Q 3934 928 3725 604 
+Q 3516 281 3123 101 
+Q 2731 -78 2241 -78 
+Q 1619 -78 1198 103 
+Q 778 284 539 648 
+Q 300 1013 288 1472 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-74" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="94.482422"/>
+     <use xlink:href="#ArialMT-69" x="150.097656"/>
+     <use xlink:href="#ArialMT-72" x="172.314453"/>
+     <use xlink:href="#ArialMT-77" x="205.615234"/>
+     <use xlink:href="#ArialMT-61" x="277.832031"/>
+     <use xlink:href="#ArialMT-79" x="333.447266"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- InternalDoor -->
+    <g transform="translate(126.707056 251.309053)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <!-- InternalHallway -->
+    <g transform="translate(123.110695 231.88476)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-48" x="333.544922"/>
+     <use xlink:href="#ArialMT-61" x="405.761719"/>
+     <use xlink:href="#ArialMT-6c" x="461.376953"/>
+     <use xlink:href="#ArialMT-6c" x="483.59375"/>
+     <use xlink:href="#ArialMT-77" x="505.810547"/>
+     <use xlink:href="#ArialMT-61" x="578.027344"/>
+     <use xlink:href="#ArialMT-79" x="633.642578"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- Bedroom -->
+    <g transform="translate(140.756533 280.998362)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-65" x="66.699219"/>
+     <use xlink:href="#ArialMT-64" x="122.314453"/>
+     <use xlink:href="#ArialMT-72" x="177.929688"/>
+     <use xlink:href="#ArialMT-6f" x="211.230469"/>
+     <use xlink:href="#ArialMT-6f" x="266.845703"/>
+     <use xlink:href="#ArialMT-6d" x="322.460938"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- InternalDoor -->
+    <g transform="translate(256.644936 97.990982)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <!-- Bedroom -->
+    <g transform="translate(252.898365 59.227044)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-65" x="66.699219"/>
+     <use xlink:href="#ArialMT-64" x="122.314453"/>
+     <use xlink:href="#ArialMT-72" x="177.929688"/>
+     <use xlink:href="#ArialMT-6f" x="211.230469"/>
+     <use xlink:href="#ArialMT-6f" x="266.845703"/>
+     <use xlink:href="#ArialMT-6d" x="322.460938"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <!-- InternalDoor -->
+    <g transform="translate(209.927165 233.67712)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <!-- StorageRoom -->
+    <g transform="translate(204.681633 220.741701)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-74" x="66.699219"/>
+     <use xlink:href="#ArialMT-6f" x="94.482422"/>
+     <use xlink:href="#ArialMT-72" x="150.097656"/>
+     <use xlink:href="#ArialMT-61" x="183.398438"/>
+     <use xlink:href="#ArialMT-67" x="239.013672"/>
+     <use xlink:href="#ArialMT-65" x="294.628906"/>
+     <use xlink:href="#ArialMT-52" x="350.244141"/>
+     <use xlink:href="#ArialMT-6f" x="422.460938"/>
+     <use xlink:href="#ArialMT-6f" x="478.076172"/>
+     <use xlink:href="#ArialMT-6d" x="533.691406"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <!-- InternalDoor -->
+    <g transform="translate(312.47309 97.990982)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <!-- Bedroom -->
+    <g transform="translate(308.239829 59.227044)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-65" x="66.699219"/>
+     <use xlink:href="#ArialMT-64" x="122.314453"/>
+     <use xlink:href="#ArialMT-72" x="177.929688"/>
+     <use xlink:href="#ArialMT-6f" x="211.230469"/>
+     <use xlink:href="#ArialMT-6f" x="266.845703"/>
+     <use xlink:href="#ArialMT-6d" x="322.460938"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <!-- BalconyDoor -->
+    <g transform="translate(400.632994 59.85802)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-61" x="66.699219"/>
+     <use xlink:href="#ArialMT-6c" x="122.314453"/>
+     <use xlink:href="#ArialMT-63" x="144.53125"/>
+     <use xlink:href="#ArialMT-6f" x="194.53125"/>
+     <use xlink:href="#ArialMT-6e" x="250.146484"/>
+     <use xlink:href="#ArialMT-79" x="305.761719"/>
+     <use xlink:href="#ArialMT-44" x="355.761719"/>
+     <use xlink:href="#ArialMT-6f" x="427.978516"/>
+     <use xlink:href="#ArialMT-6f" x="483.59375"/>
+     <use xlink:href="#ArialMT-72" x="539.208984"/>
+    </g>
+   </g>
+   <g id="text_28">
+    <!-- LivingRoom -->
+    <g transform="translate(366.705962 101.629682)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-4c"/>
+     <use xlink:href="#ArialMT-69" x="55.615234"/>
+     <use xlink:href="#ArialMT-76" x="77.832031"/>
+     <use xlink:href="#ArialMT-69" x="127.832031"/>
+     <use xlink:href="#ArialMT-6e" x="150.048828"/>
+     <use xlink:href="#ArialMT-67" x="205.664062"/>
+     <use xlink:href="#ArialMT-52" x="261.279297"/>
+     <use xlink:href="#ArialMT-6f" x="333.496094"/>
+     <use xlink:href="#ArialMT-6f" x="389.111328"/>
+     <use xlink:href="#ArialMT-6d" x="444.726562"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <!-- BalconyDoor -->
+    <g transform="translate(64.12037 321.650001)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-61" x="66.699219"/>
+     <use xlink:href="#ArialMT-6c" x="122.314453"/>
+     <use xlink:href="#ArialMT-63" x="144.53125"/>
+     <use xlink:href="#ArialMT-6f" x="194.53125"/>
+     <use xlink:href="#ArialMT-6e" x="250.146484"/>
+     <use xlink:href="#ArialMT-79" x="305.761719"/>
+     <use xlink:href="#ArialMT-44" x="355.761719"/>
+     <use xlink:href="#ArialMT-6f" x="427.978516"/>
+     <use xlink:href="#ArialMT-6f" x="483.59375"/>
+     <use xlink:href="#ArialMT-72" x="539.208984"/>
+    </g>
+   </g>
+   <g id="text_30">
+    <!-- LivingRoom -->
+    <g transform="translate(73.562633 247.365262)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-4c"/>
+     <use xlink:href="#ArialMT-69" x="55.615234"/>
+     <use xlink:href="#ArialMT-76" x="77.832031"/>
+     <use xlink:href="#ArialMT-69" x="127.832031"/>
+     <use xlink:href="#ArialMT-6e" x="150.048828"/>
+     <use xlink:href="#ArialMT-67" x="205.664062"/>
+     <use xlink:href="#ArialMT-52" x="261.279297"/>
+     <use xlink:href="#ArialMT-6f" x="333.496094"/>
+     <use xlink:href="#ArialMT-6f" x="389.111328"/>
+     <use xlink:href="#ArialMT-6d" x="444.726562"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <!-- InternalDoor -->
+    <g transform="translate(148.200315 126.908808)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <!-- Toilet -->
+    <g transform="translate(167.956054 118.262744)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-54"/>
+     <use xlink:href="#ArialMT-6f" x="49.958984"/>
+     <use xlink:href="#ArialMT-69" x="105.574219"/>
+     <use xlink:href="#ArialMT-6c" x="127.791016"/>
+     <use xlink:href="#ArialMT-65" x="150.007812"/>
+     <use xlink:href="#ArialMT-74" x="205.623047"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <!-- InternalDoor -->
+    <g transform="translate(290.784212 126.493727)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_34">
+    <!-- Toilet -->
+    <g transform="translate(292.936237 118.158663)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-54"/>
+     <use xlink:href="#ArialMT-6f" x="49.958984"/>
+     <use xlink:href="#ArialMT-69" x="105.574219"/>
+     <use xlink:href="#ArialMT-6c" x="127.791016"/>
+     <use xlink:href="#ArialMT-65" x="150.007812"/>
+     <use xlink:href="#ArialMT-74" x="205.623047"/>
+    </g>
+   </g>
+   <g id="text_35">
+    <!-- InternalDoor -->
+    <g transform="translate(330.466389 159.248984)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_36">
+    <!-- StorageRoom -->
+    <g transform="translate(316.724844 164.85668)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-74" x="66.699219"/>
+     <use xlink:href="#ArialMT-6f" x="94.482422"/>
+     <use xlink:href="#ArialMT-72" x="150.097656"/>
+     <use xlink:href="#ArialMT-61" x="183.398438"/>
+     <use xlink:href="#ArialMT-67" x="239.013672"/>
+     <use xlink:href="#ArialMT-65" x="294.628906"/>
+     <use xlink:href="#ArialMT-52" x="350.244141"/>
+     <use xlink:href="#ArialMT-6f" x="422.460938"/>
+     <use xlink:href="#ArialMT-6f" x="478.076172"/>
+     <use xlink:href="#ArialMT-6d" x="533.691406"/>
+    </g>
+   </g>
+   <g id="text_37">
+    <!-- InternalDoor -->
+    <g transform="translate(330.464412 243.760006)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_38">
+    <!-- InternalDoor -->
+    <g transform="translate(330.473851 107.391578)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <!-- InternalDoor -->
+    <g transform="translate(182.727544 116.896458)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_40">
+    <!-- Bathroom -->
+    <g transform="translate(198.437958 126.882859)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-61" x="66.699219"/>
+     <use xlink:href="#ArialMT-74" x="122.314453"/>
+     <use xlink:href="#ArialMT-68" x="150.097656"/>
+     <use xlink:href="#ArialMT-72" x="205.712891"/>
+     <use xlink:href="#ArialMT-6f" x="239.013672"/>
+     <use xlink:href="#ArialMT-6f" x="294.628906"/>
+     <use xlink:href="#ArialMT-6d" x="350.244141"/>
+    </g>
+   </g>
+   <g id="text_41">
+    <!-- UnitDoor -->
+    <g transform="translate(304.749304 145.2554)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-55"/>
+     <use xlink:href="#ArialMT-6e" x="72.216797"/>
+     <use xlink:href="#ArialMT-69" x="127.832031"/>
+     <use xlink:href="#ArialMT-74" x="150.048828"/>
+     <use xlink:href="#ArialMT-44" x="177.832031"/>
+     <use xlink:href="#ArialMT-6f" x="250.048828"/>
+     <use xlink:href="#ArialMT-6f" x="305.664062"/>
+     <use xlink:href="#ArialMT-72" x="361.279297"/>
+    </g>
+   </g>
+   <g id="text_42">
+    <!-- UnitDoor -->
+    <g transform="translate(305.235411 197.607875)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-55"/>
+     <use xlink:href="#ArialMT-6e" x="72.216797"/>
+     <use xlink:href="#ArialMT-69" x="127.832031"/>
+     <use xlink:href="#ArialMT-74" x="150.048828"/>
+     <use xlink:href="#ArialMT-44" x="177.832031"/>
+     <use xlink:href="#ArialMT-6f" x="250.048828"/>
+     <use xlink:href="#ArialMT-6f" x="305.664062"/>
+     <use xlink:href="#ArialMT-72" x="361.279297"/>
+    </g>
+   </g>
+   <g id="text_43">
+    <!-- InternalDoor -->
+    <g transform="translate(107.156105 196.505191)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_44">
+    <!-- StorageRoom -->
+    <g transform="translate(117.339995 191.656784)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-74" x="66.699219"/>
+     <use xlink:href="#ArialMT-6f" x="94.482422"/>
+     <use xlink:href="#ArialMT-72" x="150.097656"/>
+     <use xlink:href="#ArialMT-61" x="183.398438"/>
+     <use xlink:href="#ArialMT-67" x="239.013672"/>
+     <use xlink:href="#ArialMT-65" x="294.628906"/>
+     <use xlink:href="#ArialMT-52" x="350.244141"/>
+     <use xlink:href="#ArialMT-6f" x="422.460938"/>
+     <use xlink:href="#ArialMT-6f" x="478.076172"/>
+     <use xlink:href="#ArialMT-6d" x="533.691406"/>
+    </g>
+   </g>
+   <g id="text_45">
+    <!-- InternalDoor -->
+    <g transform="translate(126.70448 97.990982)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_46">
+    <!-- Bedroom -->
+    <g transform="translate(141.243806 59.227044)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-65" x="66.699219"/>
+     <use xlink:href="#ArialMT-64" x="122.314453"/>
+     <use xlink:href="#ArialMT-72" x="177.929688"/>
+     <use xlink:href="#ArialMT-6f" x="211.230469"/>
+     <use xlink:href="#ArialMT-6f" x="266.845703"/>
+     <use xlink:href="#ArialMT-6d" x="322.460938"/>
+    </g>
+   </g>
+   <g id="text_47">
+    <!-- ElevatorDoor -->
+    <g transform="translate(244.276945 185.564084)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-45" d="M 506 0 
+L 506 4581 
+L 3819 4581 
+L 3819 4041 
+L 1113 4041 
+L 1113 2638 
+L 3647 2638 
+L 3647 2100 
+L 1113 2100 
+L 1113 541 
+L 3925 541 
+L 3925 0 
+L 506 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-45"/>
+     <use xlink:href="#ArialMT-6c" x="66.699219"/>
+     <use xlink:href="#ArialMT-65" x="88.916016"/>
+     <use xlink:href="#ArialMT-76" x="144.53125"/>
+     <use xlink:href="#ArialMT-61" x="194.53125"/>
+     <use xlink:href="#ArialMT-74" x="250.146484"/>
+     <use xlink:href="#ArialMT-6f" x="277.929688"/>
+     <use xlink:href="#ArialMT-72" x="333.544922"/>
+     <use xlink:href="#ArialMT-44" x="366.845703"/>
+     <use xlink:href="#ArialMT-6f" x="439.0625"/>
+     <use xlink:href="#ArialMT-6f" x="494.677734"/>
+     <use xlink:href="#ArialMT-72" x="550.292969"/>
+    </g>
+   </g>
+   <g id="text_48">
+    <!-- Elevator -->
+    <g transform="translate(267.802971 181.565385)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-45"/>
+     <use xlink:href="#ArialMT-6c" x="66.699219"/>
+     <use xlink:href="#ArialMT-65" x="88.916016"/>
+     <use xlink:href="#ArialMT-76" x="144.53125"/>
+     <use xlink:href="#ArialMT-61" x="194.53125"/>
+     <use xlink:href="#ArialMT-74" x="250.146484"/>
+     <use xlink:href="#ArialMT-6f" x="277.929688"/>
+     <use xlink:href="#ArialMT-72" x="333.544922"/>
+    </g>
+   </g>
+   <g id="text_49">
+    <!-- InternalDoor -->
+    <g transform="translate(256.968249 251.308946)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_50">
+    <!-- Bedroom -->
+    <g transform="translate(252.509713 280.997739)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-65" x="66.699219"/>
+     <use xlink:href="#ArialMT-64" x="122.314453"/>
+     <use xlink:href="#ArialMT-72" x="177.929688"/>
+     <use xlink:href="#ArialMT-6f" x="211.230469"/>
+     <use xlink:href="#ArialMT-6f" x="266.845703"/>
+     <use xlink:href="#ArialMT-6d" x="322.460938"/>
+    </g>
+   </g>
+   <g id="text_51">
+    <!-- BalconyDoor -->
+    <g transform="translate(37.657788 60.277846)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-61" x="66.699219"/>
+     <use xlink:href="#ArialMT-6c" x="122.314453"/>
+     <use xlink:href="#ArialMT-63" x="144.53125"/>
+     <use xlink:href="#ArialMT-6f" x="194.53125"/>
+     <use xlink:href="#ArialMT-6e" x="250.146484"/>
+     <use xlink:href="#ArialMT-79" x="305.761719"/>
+     <use xlink:href="#ArialMT-44" x="355.761719"/>
+     <use xlink:href="#ArialMT-6f" x="427.978516"/>
+     <use xlink:href="#ArialMT-6f" x="483.59375"/>
+     <use xlink:href="#ArialMT-72" x="539.208984"/>
+    </g>
+   </g>
+   <g id="text_52">
+    <!-- InternalDoor -->
+    <g transform="translate(107.156105 244.286798)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_53">
+    <!-- InternalDoor -->
+    <g transform="translate(148.589757 217.175693)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_54">
+    <!-- Toilet -->
+    <g transform="translate(171.555461 206.140114)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-54"/>
+     <use xlink:href="#ArialMT-6f" x="49.958984"/>
+     <use xlink:href="#ArialMT-69" x="105.574219"/>
+     <use xlink:href="#ArialMT-6c" x="127.791016"/>
+     <use xlink:href="#ArialMT-65" x="150.007812"/>
+     <use xlink:href="#ArialMT-74" x="205.623047"/>
+    </g>
+   </g>
+   <g id="text_55">
+    <!-- InternalDoor -->
+    <g transform="translate(209.927165 251.309053)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_56">
+    <!-- Bedroom -->
+    <g transform="translate(197.26579 280.997905)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-65" x="66.699219"/>
+     <use xlink:href="#ArialMT-64" x="122.314453"/>
+     <use xlink:href="#ArialMT-72" x="177.929688"/>
+     <use xlink:href="#ArialMT-6f" x="211.230469"/>
+     <use xlink:href="#ArialMT-6f" x="266.845703"/>
+     <use xlink:href="#ArialMT-6d" x="322.460938"/>
+    </g>
+   </g>
+   <g id="text_57">
+    <!-- InternalDoor -->
+    <g transform="translate(312.47309 251.933436)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_58">
+    <!-- Bedroom -->
+    <g transform="translate(307.656267 280.997739)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-65" x="66.699219"/>
+     <use xlink:href="#ArialMT-64" x="122.314453"/>
+     <use xlink:href="#ArialMT-72" x="177.929688"/>
+     <use xlink:href="#ArialMT-6f" x="211.230469"/>
+     <use xlink:href="#ArialMT-6f" x="266.845703"/>
+     <use xlink:href="#ArialMT-6d" x="322.460938"/>
+    </g>
+   </g>
+   <g id="text_59">
+    <!-- InternalDoor -->
+    <g transform="translate(330.466389 194.951355)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_60">
+    <!-- StorageRoom -->
+    <g transform="translate(316.724844 191.033541)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-74" x="66.699219"/>
+     <use xlink:href="#ArialMT-6f" x="94.482422"/>
+     <use xlink:href="#ArialMT-72" x="150.097656"/>
+     <use xlink:href="#ArialMT-61" x="183.398438"/>
+     <use xlink:href="#ArialMT-67" x="239.013672"/>
+     <use xlink:href="#ArialMT-65" x="294.628906"/>
+     <use xlink:href="#ArialMT-52" x="350.244141"/>
+     <use xlink:href="#ArialMT-6f" x="422.460938"/>
+     <use xlink:href="#ArialMT-6f" x="478.076172"/>
+     <use xlink:href="#ArialMT-6d" x="533.691406"/>
+    </g>
+   </g>
+   <g id="text_61">
+    <!-- InternalDoor -->
+    <g transform="translate(148.590134 235.145058)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_62">
+    <!-- Bathroom -->
+    <g transform="translate(178.391075 230.386428)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-42"/>
+     <use xlink:href="#ArialMT-61" x="66.699219"/>
+     <use xlink:href="#ArialMT-74" x="122.314453"/>
+     <use xlink:href="#ArialMT-68" x="150.097656"/>
+     <use xlink:href="#ArialMT-72" x="205.712891"/>
+     <use xlink:href="#ArialMT-6f" x="239.013672"/>
+     <use xlink:href="#ArialMT-6f" x="294.628906"/>
+     <use xlink:href="#ArialMT-6d" x="350.244141"/>
+    </g>
+   </g>
+   <g id="text_63">
+    <!-- InternalDoor -->
+    <g transform="translate(108.118599 156.8343)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-49"/>
+     <use xlink:href="#ArialMT-6e" x="27.783203"/>
+     <use xlink:href="#ArialMT-74" x="83.398438"/>
+     <use xlink:href="#ArialMT-65" x="111.181641"/>
+     <use xlink:href="#ArialMT-72" x="166.796875"/>
+     <use xlink:href="#ArialMT-6e" x="200.097656"/>
+     <use xlink:href="#ArialMT-61" x="255.712891"/>
+     <use xlink:href="#ArialMT-6c" x="311.328125"/>
+     <use xlink:href="#ArialMT-44" x="333.544922"/>
+     <use xlink:href="#ArialMT-6f" x="405.761719"/>
+     <use xlink:href="#ArialMT-6f" x="461.376953"/>
+     <use xlink:href="#ArialMT-72" x="516.992188"/>
+    </g>
+   </g>
+   <g id="text_64">
+    <!-- StorageRoom -->
+    <g transform="translate(117.827269 165.479923)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-74" x="66.699219"/>
+     <use xlink:href="#ArialMT-6f" x="94.482422"/>
+     <use xlink:href="#ArialMT-72" x="150.097656"/>
+     <use xlink:href="#ArialMT-61" x="183.398438"/>
+     <use xlink:href="#ArialMT-67" x="239.013672"/>
+     <use xlink:href="#ArialMT-65" x="294.628906"/>
+     <use xlink:href="#ArialMT-52" x="350.244141"/>
+     <use xlink:href="#ArialMT-6f" x="422.460938"/>
+     <use xlink:href="#ArialMT-6f" x="478.076172"/>
+     <use xlink:href="#ArialMT-6d" x="533.691406"/>
+    </g>
+   </g>
+   <g id="text_65">
+    <!-- UnitDoor -->
+    <g transform="translate(146.604158 197.607875)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-55"/>
+     <use xlink:href="#ArialMT-6e" x="72.216797"/>
+     <use xlink:href="#ArialMT-69" x="127.832031"/>
+     <use xlink:href="#ArialMT-74" x="150.048828"/>
+     <use xlink:href="#ArialMT-44" x="177.832031"/>
+     <use xlink:href="#ArialMT-6f" x="250.048828"/>
+     <use xlink:href="#ArialMT-6f" x="305.664062"/>
+     <use xlink:href="#ArialMT-72" x="361.279297"/>
+    </g>
+   </g>
+   <g id="text_66">
+    <!-- Shaft -->
+    <g transform="translate(182.542942 194.613419)rotate(-45)scale(0.1 -0.1)">
+     <defs>
+      <path id="ArialMT-66" d="M 556 0 
+L 556 2881 
+L 59 2881 
+L 59 3319 
+L 556 3319 
+L 556 3672 
+Q 556 4006 616 4169 
+Q 697 4388 901 4523 
+Q 1106 4659 1475 4659 
+Q 1713 4659 2000 4603 
+L 1916 4113 
+Q 1741 4144 1584 4144 
+Q 1328 4144 1222 4034 
+Q 1116 3925 1116 3625 
+L 1116 3319 
+L 1763 3319 
+L 1763 2881 
+L 1116 2881 
+L 1116 0 
+L 556 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-68" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="122.314453"/>
+     <use xlink:href="#ArialMT-66" x="177.929688"/>
+     <use xlink:href="#ArialMT-74" x="205.712891"/>
+    </g>
+   </g>
+   <g id="text_67">
+    <!-- Shaft -->
+    <g transform="translate(195.866817 135.197099)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-68" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="122.314453"/>
+     <use xlink:href="#ArialMT-66" x="177.929688"/>
+     <use xlink:href="#ArialMT-74" x="205.712891"/>
+    </g>
+   </g>
+   <g id="text_68">
+    <!-- Shaft -->
+    <g transform="translate(186.334924 206.143428)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-68" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="122.314453"/>
+     <use xlink:href="#ArialMT-66" x="177.929688"/>
+     <use xlink:href="#ArialMT-74" x="205.712891"/>
+    </g>
+   </g>
+   <g id="text_69">
+    <!-- Shaft -->
+    <g transform="translate(265.115717 135.093017)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-68" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="122.314453"/>
+     <use xlink:href="#ArialMT-66" x="177.929688"/>
+     <use xlink:href="#ArialMT-74" x="205.712891"/>
+    </g>
+   </g>
+   <g id="text_70">
+    <!-- Shaft -->
+    <g transform="translate(294.391826 194.613419)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-68" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="122.314453"/>
+     <use xlink:href="#ArialMT-66" x="177.929688"/>
+     <use xlink:href="#ArialMT-74" x="205.712891"/>
+    </g>
+   </g>
+   <g id="text_71">
+    <!-- Shaft -->
+    <g transform="translate(292.932923 135.093017)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-68" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="122.314453"/>
+     <use xlink:href="#ArialMT-66" x="177.929688"/>
+     <use xlink:href="#ArialMT-74" x="205.712891"/>
+    </g>
+   </g>
+   <g id="text_72">
+    <!-- Shaft -->
+    <g transform="translate(167.952739 135.197099)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-68" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="122.314453"/>
+     <use xlink:href="#ArialMT-66" x="177.929688"/>
+     <use xlink:href="#ArialMT-74" x="205.712891"/>
+    </g>
+   </g>
+   <g id="text_73">
+    <!-- Shaft -->
+    <g transform="translate(266.575204 194.613419)rotate(-45)scale(0.1 -0.1)">
+     <use xlink:href="#ArialMT-53"/>
+     <use xlink:href="#ArialMT-68" x="66.699219"/>
+     <use xlink:href="#ArialMT-61" x="122.314453"/>
+     <use xlink:href="#ArialMT-66" x="177.929688"/>
+     <use xlink:href="#ArialMT-74" x="205.712891"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd10f09e5f8">
+   <rect x="10.8" y="18.031703" width="439.2" height="316.768297"/>
+  </clipPath>
+ </defs>
+</svg>
