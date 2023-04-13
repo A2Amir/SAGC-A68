@@ -110,7 +110,7 @@ def add_node_attribute(di_nx_graph):
 
 def normalize_coordinate(di_nx_graph):
 
-    x_min, y_min, z_min, x_max, y_max, z_max = di_nx_graph.graph['bounding_box']
+    x_min, y_min, z_min, x_max, y_max, z_max = di_nx_graph.graph['graph_bounding_box']
     for node in di_nx_graph.nodes(data=True):
         node_id = node[0]
         nodel_feat = node[1]

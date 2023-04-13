@@ -24,15 +24,15 @@ def load_graph(label_path, graph_type = 'space_access_relation'):
     with open(label_path, 'r') as f:
         data = json.load(f)
         
-    x_min = dtype_transformation(data["bounding_box"] ["min_x"])
-    y_min = dtype_transformation(data["bounding_box"] ["min_y"])
-    z_min = dtype_transformation(data["bounding_box"] ["min_z"])
-    x_max = dtype_transformation(data["bounding_box"] ["max_x"])
-    y_max = dtype_transformation(data["bounding_box"] ["max_y"])
-    z_max = dtype_transformation(data["bounding_box"] ["max_z"])
+    x_min = dtype_transformation(data["graph_bounding_box"] ["min_x"])
+    y_min = dtype_transformation(data["graph_bounding_box"] ["min_y"])
+    z_min = dtype_transformation(data["graph_bounding_box"] ["min_z"])
+    x_max = dtype_transformation(data["graph_bounding_box"] ["max_x"])
+    y_max = dtype_transformation(data["graph_bounding_box"] ["max_y"])
+    z_max = dtype_transformation(data["graph_bounding_box"] ["max_z"])
 
     graph_name = label_path.split('.')[1].split('\\')[-1]
-    G = nx.Graph(name= graph_name, bounding_box= [x_min, y_min, z_min, x_max, y_max, z_max] )
+    G = nx.Graph(name= graph_name, graph_bounding_box = [x_min, y_min, z_min, x_max, y_max, z_max] )
     
     space_element_ids = list(map(itemgetter('id'), data['space_element_set']))
     space_ids = list(map(itemgetter('id'), data['whole_space_set']))
