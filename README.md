@@ -68,28 +68,15 @@ Each access graph contains nodes representing spaces and space elements and edge
  <td>
    <pre ><code class="lang-txt" >
     [root]
-    ├── [Space]
-    │   ├── (102,102,122)[InternalSpace]
-    │   └── (161,162,155)[ExternalSpace]
     └── [SpaceElement]
-        ├── [SpaceContainedElement]
-        │   ├── [CirculationElement]
-        │   │   ├── (230, 184, 175)[FlightOfStairs]
-        │   │   └── (102, 1, 30)[Landing]
-        │   ├── [FurnishingElement]
-        │   │   ├── (253, 223, 162)[KitchenElement]
-        │   │   └── (248, 193, 79)[SanitaryElemen]
-        │   └── [EquipmentElement]
-        │       └── [HomeAppliance]
-        │           └── (159, 140, 81)[TextileCareAppliance]
         └── [SpaceEnclosingElement]
-            ├── (109, 189, 110)[Opening]
-            ├── (255, 107, 0)[Partition]
-            ├── (200, 255, 0)[Window]
+            ├── <b>(Opening)[140]</b>
             └── [Door]
-                ├── (0, 255, 0)[RegularDoor]
-                ├── (72, 112, 39)[UnitDoor]
-                └── (187, 244, 154)[ElevatorDoor]
+                ├── <b>(InternalDoor)[1428]</b>
+                ├── <b>(UnitDoor)[291]</b>
+                └── <b>(SideEntranceDoor)[84]</b>
+                └── <b>(ElevatorDoor)[492]</b>
+                └── <b>(BalconyDoor)[10]</b>
       </code></pre>
   </td>
  </tr>
