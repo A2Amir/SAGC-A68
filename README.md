@@ -91,11 +91,12 @@ Activate the new environment:
 Verify that the new environment was installed correctly
 
         conda env list
+      
         
-### 3. Dataset and Processing:
 
+### 3. Model training:
 
-We first used the dataset to develop two segmentation models based on [transfer learning](https://github.com/A2Amir/SFS-A68/blob/main/VGG16%20U-Net%20(Transfer%20Learning).ipynb) and [training from scratch](https://github.com/A2Amir/SFS-A68/blob/main/Training%20U-Net%20From%20Scratch.ipynb) then, the outputs of the space function segmentation models for the test dataset are evaluated by Intersection over Union (IoU) and Total Error metrics. 
+Since a typical GAN only takes node features into node embeddings, we extend GAN to incorporate edge features. We then used the dataset to train the extended GAN from scratch, we used a simple training strategy, starting with a learning rate of 0.001, training the model 5000 epochs, and saving the best model with the lowest error on the training dataset. The outputs of the extended GAN model for the test dataset are evaluated by Precision, Recall, and F1-Score metrics. See the [code and result](https://github.com/A2Amir/SAGC-A68/blob/main/Graph.ipynb) here.
 
 ### 4. Acknowledgments
 
