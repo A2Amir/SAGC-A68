@@ -1,6 +1,3 @@
-
-
-
 ### 1. Introduction:
 
 The analysis of building models for usable area, building safety, and energy use requires accurate classification data of spaces and space elements. To reduce input model preparation effort and errors, automated classification of spaces and space elements is desirable. A barrier to the application of Graph Deep Learning (GDL) methods to space function and space element classification is a lack of suitable datasets. To bridge this gap, we introduce a dataset, SAGC-A68, which comprises access graphs automatically generated from 68 digital 3D models of space layouts of apartment buildings. This graph-based dataset is well-suited for developing GDL models for space function and space element classification. To demonstrate the potential of the dataset, we employ it to train and evaluate a Graph Attention Network (GAN) that predicts 22 space function and 6 space element classes. The [dataset](https://doi.org/10.5281/zenodo.7805872) and [code]() used in the experiment are available online.
@@ -89,7 +86,7 @@ In order to use the helper codes, create the environment from the environment.ym
 
 Activate the new environment: 
 
-        conda activate SFS-A68
+        conda activate graph
         
 Verify that the new environment was installed correctly
 
