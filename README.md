@@ -41,25 +41,25 @@ Each access graph contains nodes representing spaces and space elements and edge
      │       ├── <b>(Bedroom)[495]</b>
      │       │   ├── <b>(MasterBedroom)[23]</b>
      │       │   └── <b>(BoxRoom)[2]</b>
-     │       └── (HomeOffice)[8]</b>
+     │       └── <b>(HomeOffice)[8]</b>
      ├── [ServiceSpace]
-     │   ├── <b>(Shaft)[]</b>
-     │   ├── <b>(StorageRoom)[]</b>
-     │   │   └── (WalkInCloset)[]</b>
+     │   ├── <b>(Shaft)[403]</b>
+     │   ├── <b>(StorageRoom)[84]</b>
+     │   │   └── <b>(WalkInCloset)[2]</b>
      │   └── [SanitarySpace]
-     │       ├── <b>(Bathroom)[]</b>
-     │       ├── <b>(Toilet)[]</b>
-     │       ├── <b>(Kitchen)[]</b>
-     │       └── <b>(LaundryRoom)[]</b>
+     │       ├── <b>(Bathroom)[274]</b>
+     │       ├── <b>(Toilet)[145]</b>
+     │       ├── <b>(Kitchen)[117]</b>
+     │       └── <b>(LaundryRoom)[57]</b>
      ├── [CirculationSpace]
      │   ├── [VerticalCirculationSpace]
-     │   │   ├── <b>(Elevator)[]</b>
-     │   │   └── <b>(Stairway)[]</b>
+     │   │   ├── <b>(Elevator)[86]</b>
+     │   │   └── <b>(Stairway)[70]</b>
      │   └── [HorizontalCirculationSpace]
-     │       ├── <b>(Entrance)[]</b>
-     │       └── <b>(Hallway)[]</b>
-     │           ├── <b>(MainHallway)[]</b>
-     │           └── <b>(InternalHallway)[]</b>
+     │       ├── <b>(Entrance)[67]</b>
+     │       └── <b>(Hallway)[12]</b>
+     │           ├── <b>(MainHallway)[18]</b>
+     │           └── <b>(InternalHallway)[152]</b>
      └── [ExternalSpace]
          ├── <b>(AccessBalcony)[19]</b>
          └── <b>(Loggia)[108]</b>
