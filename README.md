@@ -8,12 +8,12 @@ The analysis of building models for usable area, building safety, and energy use
 <table align="center">
 <tr><th colspan="2">Space access graphs with the corresponding node labels</th></tr>
 <tr>
-    <td><img src="./images/0017_lableled_data.png" width=320 height=320></td>
-    <td><img src="./images/0032_lableled_data.png" width=320 height=320></td>
+    <td><img src="./images/0017_lableled_data.png" width=320 height=250></td>
+    <td><img src="./images/0032_lableled_data.png" width=320 height=250></td>
   </tr>
     <tr>
-    <td><img src="./images/0034_lableled_data.png" width=320 height=320></td>
-    <td><img src="./images/0049_lableled_data.png" width=320 height=320></td>
+    <td><img src="./images/0034_lableled_data.png" width=320 height=250></td>
+    <td><img src="./images/0049_lableled_data.png" width=320 height=250></td>
   </tr>
  </table>
 
