@@ -1,0 +1,3556 @@
+{
+        "whole_space_set": [
+                {
+                        "id": "36205056",
+                        "x": -0.8923229576214193,
+                        "y": 35.93738469662203,
+                        "z": 1.5,
+                        "width": 3.2702509469414434,
+                        "height": 3,
+                        "depth": 4.847337403606264,
+                        "area": 15.852009734288064,
+                        "volume": 47.55602920286414,
+                        "is_internal": "True",
+                        "door_opening_quantity": 3,
+                        "window_quantity": 1,
+                        "max_door_width": 1.3999999999999984,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -3.3159916594245518,
+                                        "y": 34.30225922315131,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 1.531345744181713,
+                                        "y": 37.572510170092755,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Stairway"
+                },
+                {
+                        "id": "128705562",
+                        "x": -9.364304910788151,
+                        "y": 23.956919498423147,
+                        "z": 1.5,
+                        "width": 3.2064094702401493,
+                        "height": 3,
+                        "depth": 7.440043154356154,
+                        "area": 23.855824829122966,
+                        "volume": 71.56747448736905,
+                        "is_internal": "False",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 5e-324,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -13.084326487966234,
+                                        "y": 22.35371476330306,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -5.64428333361008,
+                                        "y": 25.560124233543224,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Loggia"
+                },
+                {
+                        "id": "211888616",
+                        "x": -5.125615183423335,
+                        "y": 40.11263790561804,
+                        "z": 1.5,
+                        "width": 1.0373363003735103,
+                        "height": 3,
+                        "depth": 2.159000625165234,
+                        "area": 2.2396097210129997,
+                        "volume": 6.718829163039,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.64428333361009,
+                                        "y": 39.03313759303542,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -4.60694703323658,
+                                        "y": 41.192138218200654,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "243658114",
+                        "x": -13.1494503029149,
+                        "y": 37.02308874767244,
+                        "z": 1.5,
+                        "width": 3.1908728286595003,
+                        "height": 3,
+                        "depth": 5.6197516272683,
+                        "area": 17.93191277126543,
+                        "volume": 53.795738313796285,
+                        "is_internal": "True",
+                        "door_opening_quantity": 3,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -14.915286018143114,
+                                        "y": 34.03771814655019,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -11.496836298727164,
+                                        "y": 39.65746977381849,
+                                        "z": 3
+                                }
+                        },
+                        "class": "MasterBedroom"
+                },
+                {
+                        "id": "363102877",
+                        "x": -29.954185872841826,
+                        "y": 32.99003134317957,
+                        "z": 1.5,
+                        "width": 3.280791949993727,
+                        "height": 3,
+                        "depth": 3.6404560541388946,
+                        "area": 11.943578916724814,
+                        "volume": 35.83073675017444,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 1,
+                        "max_door_width": 1.2000000000000028,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -31.59458184783869,
+                                        "y": 31.16980331611012,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -28.313789897844963,
+                                        "y": 34.810259370249014,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Kitchen"
+                },
+                {
+                        "id": "363571418",
+                        "x": -4.358471461287416,
+                        "y": 34.67798883194845,
+                        "z": 1.5,
+                        "width": 0.7514592175942738,
+                        "height": 3,
+                        "depth": 2.0849596037257334,
+                        "area": 1.5667621125314068,
+                        "volume": 4.70028633759422,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.400951263150283,
+                                        "y": 34.30225922315131,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -3.3159916594245495,
+                                        "y": 35.053718440745584,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "422068090",
+                        "x": -18.935021603321637,
+                        "y": 36.97213537359975,
+                        "z": 1.5,
+                        "width": 3.1133489796780447,
+                        "height": 3,
+                        "depth": 5.6197516272683,
+                        "area": 17.496247994799795,
+                        "volume": 52.48874398439939,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -20.619746669939968,
+                                        "y": 34.03771814655019,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -17.349495722998515,
+                                        "y": 39.65746977381849,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "506945904",
+                        "x": -5.226262712567069,
+                        "y": 30.592842149043904,
+                        "z": 1.5,
+                        "width": 0.8360412420860408,
+                        "height": 3,
+                        "depth": 4.476751296298488,
+                        "area": 3.742748714267681,
+                        "volume": 11.228246142803044,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.6442833336100895,
+                                        "y": 28.35446650089466,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -4.808242091524048,
+                                        "y": 32.83121779719315,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "515068415",
+                        "x": -31.201675044313326,
+                        "y": 25.032370296597755,
+                        "z": 1.5,
+                        "width": 2.73494061148376,
+                        "height": 3,
+                        "depth": 5.619751627268322,
+                        "area": 15.36968695186808,
+                        "volume": 46.10906085560425,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -32.59978713890826,
+                                        "y": 22.353714763303067,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -29.7214583054527,
+                                        "y": 27.97346639057139,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "560965261",
+                        "x": -19.0057032025738,
+                        "y": 28.248611970243182,
+                        "z": 1.5,
+                        "width": 1.5979144626958188,
+                        "height": 3,
+                        "depth": 2.1164556128457974,
+                        "area": 3.3819150334200425,
+                        "volume": 10.145745100260118,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 0,
+                        "max_door_width": 1.3999999999999986,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -19.80466043392171,
+                                        "y": 27.190384163820283,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -18.206745971225892,
+                                        "y": 29.30683977666608,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Elevator"
+                },
+                {
+                        "id": "659525448",
+                        "x": -24.466768283892463,
+                        "y": 38.043426306452325,
+                        "z": 1.4999999999999998,
+                        "width": 3.2280869347323318,
+                        "height": 3,
+                        "depth": 7.694043227904988,
+                        "area": 24.83704041926587,
+                        "volume": 74.51112125779758,
+                        "is_internal": "False",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 5e-324,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -28.31378989784496,
+                                        "y": 36.42938283908616,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -20.61974666993997,
+                                        "y": 39.65746977381849,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Loggia"
+                },
+                {
+                        "id": "701645934",
+                        "x": 3.467639582335571,
+                        "y": 47.10019315382628,
+                        "z": 1.5,
+                        "width": 3.2708321467024115,
+                        "height": 3,
+                        "depth": 4.6144193361619585,
+                        "area": 15.092991103083735,
+                        "volume": 45.2789733092512,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 1.5313457441817104,
+                                        "y": 44.90676229381582,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 5.11896978302245,
+                                        "y": 49.521181629977775,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "741538968",
+                        "x": -3.8345328095745304,
+                        "y": 25.354090632098867,
+                        "z": 1.5,
+                        "width": 3.619501048071118,
+                        "height": 3,
+                        "depth": 6.000751737591585,
+                        "area": 21.719727203427325,
+                        "volume": 65.15918161028198,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.6442833336100895,
+                                        "y": 22.353714763303074,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.024782285538971,
+                                        "y": 28.35446650089466,
+                                        "z": 3
+                                }
+                        },
+                        "class": "MasterBedroom"
+                },
+                {
+                        "id": "749402849",
+                        "x": -3.315801159369386,
+                        "y": 40.11263790561804,
+                        "z": 1.5,
+                        "width": 2.159000625165234,
+                        "height": 3,
+                        "depth": 2.582291747734389,
+                        "area": 5.575169497717571,
+                        "volume": 16.725508493152713,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 0,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -4.6069470332365805,
+                                        "y": 39.03313759303542,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.0246552855021913,
+                                        "y": 41.192138218200654,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bathroom"
+                },
+                {
+                        "id": "755944746",
+                        "x": -0.07481828172524682,
+                        "y": 47.31006576049717,
+                        "z": 1.5,
+                        "width": 3.872792921822229,
+                        "height": 3,
+                        "depth": 4.6144193361619585,
+                        "area": 17.87069054340766,
+                        "volume": 53.612071630223,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -2.0246552855021918,
+                                        "y": 44.90676229381582,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 2.1767599310693386,
+                                        "y": 49.521181629977775,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "876501391",
+                        "x": 3.3251577636020797,
+                        "y": 24.655590429839524,
+                        "z": 1.5,
+                        "width": 3.587624038840736,
+                        "height": 3,
+                        "depth": 4.603751333072921,
+                        "area": 16.516528951377495,
+                        "volume": 49.549586854132485,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 1.5313457441817073,
+                                        "y": 22.35371476330306,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 5.118969783022452,
+                                        "y": 26.95746609637599,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "898313751",
+                        "x": 7.782874137121429,
+                        "y": 33.579978264005966,
+                        "z": 1.5,
+                        "width": 3.1814477557620737,
+                        "height": 3,
+                        "depth": 4.714939865268924,
+                        "area": 15.000334852912953,
+                        "volume": 45.001004558738856,
+                        "is_internal": "False",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 5e-324,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 6.1921502592403925,
+                                        "y": 31.2225083313715,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 9.373598015002468,
+                                        "y": 35.93744819664043,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Loggia"
+                },
+                {
+                        "id": "969530051",
+                        "x": -6.041485703433841,
+                        "y": 34.485830454302345,
+                        "z": 1.5,
+                        "width": 0.8043585960549966,
+                        "height": 3,
+                        "depth": 1.2170413524093178,
+                        "area": 0.9789376735648332,
+                        "volume": 2.9368130206944993,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -6.6179926155596025,
+                                        "y": 34.03771814655019,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -5.400951263150285,
+                                        "y": 34.89496839477755,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "1029572238",
+                        "x": -34.35143514611952,
+                        "y": 30.05848949431551,
+                        "z": 1.5,
+                        "width": 3.503296014422514,
+                        "height": 3,
+                        "depth": 4.6991283606905085,
+                        "area": 16.46243765726686,
+                        "volume": 49.387312971800576,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -36.10308315333078,
+                                        "y": 27.708925313970255,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -32.59978713890826,
+                                        "y": 32.40805367466076,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "1032385343",
+                        "x": -0.2467182706786324,
+                        "y": 27.962671387445567,
+                        "z": 1.5,
+                        "width": 8.20666061280382,
+                        "height": 3,
+                        "depth": 8.86879356806844,
+                        "area": 72.78317885815513,
+                        "volume": 218.34953657446542,
+                        "is_internal": "True",
+                        "door_opening_quantity": 8,
+                        "window_quantity": 4,
+                        "max_door_width": 1.2000000000000028,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.64428333361009,
+                                        "y": 22.35371476330306,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 9.373598015002464,
+                                        "y": 34.30225922315131,
+                                        "z": 3
+                                }
+                        },
+                        "class": "LivingRoom"
+                },
+                {
+                        "id": "1038057607",
+                        "x": -4.358471461287418,
+                        "y": 35.85280267213027,
+                        "z": 1.5,
+                        "width": 1.5981684627693653,
+                        "height": 3,
+                        "depth": 2.0849596037257343,
+                        "area": 3.332116684822582,
+                        "volume": 9.996350054467745,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 0,
+                        "max_door_width": 1.3999999999999984,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.400951263150285,
+                                        "y": 35.053718440745584,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -3.3159916594245504,
+                                        "y": 36.65188690351495,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Elevator"
+                },
+                {
+                        "id": "1040521014",
+                        "x": -15.216911105482374,
+                        "y": 34.03771814655019,
+                        "z": 1.5,
+                        "width": 8.37087863522496,
+                        "height": 3,
+                        "depth": 8.847711561963875,
+                        "area": 74.06311968467627,
+                        "volume": 222.18935905402873,
+                        "is_internal": "True",
+                        "door_opening_quantity": 8,
+                        "window_quantity": 3,
+                        "max_door_width": 1.2000000000000028,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -20.61974666993997,
+                                        "y": 22.35371476330306,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -7.3270338208712165,
+                                        "y": 34.73621834880953,
+                                        "z": 3
+                                }
+                        },
+                        "class": "LivingRoom"
+                },
+                {
+                        "id": "1105666844",
+                        "x": 7.782874137121431,
+                        "y": 38.29491812927489,
+                        "z": 1.5,
+                        "width": 3.1814477557620773,
+                        "height": 3,
+                        "depth": 4.714939865268924,
+                        "area": 15.000334852912971,
+                        "volume": 45.0010045587389,
+                        "is_internal": "False",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 5e-324,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 6.1921502592403925,
+                                        "y": 35.93744819664042,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 9.373598015002472,
+                                        "y": 40.65238806190935,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Loggia"
+                },
+                {
+                        "id": "1308195280",
+                        "x": -16.132390870570816,
+                        "y": 37.720719213008515,
+                        "z": 1.5,
+                        "width": 2.4342097048554017,
+                        "height": 3,
+                        "depth": 3.8735011216199524,
+                        "area": 9.428914022015572,
+                        "volume": 28.286742066046717,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -17.34949572299852,
+                                        "y": 35.78396865219854,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -14.915286018143115,
+                                        "y": 39.65746977381849,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bathroom"
+                },
+                {
+                        "id": "1335279322",
+                        "x": -3.416512188531511,
+                        "y": 29.592716859445304,
+                        "z": 1.5,
+                        "width": 2.476500717101288,
+                        "height": 3,
+                        "depth": 2.7834598059850757,
+                        "area": 6.893240205544652,
+                        "volume": 20.679720616633958,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 0,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -4.808242091524049,
+                                        "y": 28.35446650089466,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.024782285538973,
+                                        "y": 30.830967217995948,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bathroom"
+                },
+                {
+                        "id": "1384487503",
+                        "x": -9.946414714564357,
+                        "y": 36.84759396018434,
+                        "z": 1.5,
+                        "width": 3.1008431683256164,
+                        "height": 3,
+                        "depth": 5.6197516272683,
+                        "area": 17.425968441101674,
+                        "volume": 52.27790532330502,
+                        "is_internal": "True",
+                        "door_opening_quantity": 3,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -11.496836298727168,
+                                        "y": 34.03771814655019,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -8.39599313040155,
+                                        "y": 39.65746977381849,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "1398447259",
+                        "x": -28.5202284576218,
+                        "y": 24.285194822586913,
+                        "z": 1.5,
+                        "width": 2.402459695661797,
+                        "height": 3,
+                        "depth": 3.862960118567692,
+                        "area": 9.280605990807796,
+                        "volume": 27.84181797242339,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -29.7214583054527,
+                                        "y": 22.353714763303067,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -27.318998609790903,
+                                        "y": 26.21667488187076,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bathroom"
+                },
+                {
+                        "id": "1419393123",
+                        "x": -22.107650676425525,
+                        "y": 25.071154587175265,
+                        "z": 1.5,
+                        "width": 2.7952364462087056,
+                        "height": 3,
+                        "depth": 5.619751627268329,
+                        "area": 15.708534567181115,
+                        "volume": 47.12560370154335,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -23.51953850961042,
+                                        "y": 22.35371476330306,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -20.61974666993997,
+                                        "y": 27.97346639057139,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "1428191887",
+                        "x": -0.24671827067863158,
+                        "y": 24.655590429839528,
+                        "z": 1.5,
+                        "width": 3.556128029720681,
+                        "height": 3,
+                        "depth": 4.603751333072907,
+                        "area": 16.371529157404517,
+                        "volume": 49.11458747221354,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -2.024782285538972,
+                                        "y": 22.353714763303074,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 1.531345744181709,
+                                        "y": 26.95746609637598,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "1600375332",
+                        "x": -16.132390870570816,
+                        "y": 35.260093500504034,
+                        "z": 1.5,
+                        "width": 1.0477503033890088,
+                        "height": 3,
+                        "depth": 2.4342097048554034,
+                        "area": 2.5504439567747186,
+                        "volume": 7.651331870324155,
+                        "is_internal": "True",
+                        "door_opening_quantity": 3,
+                        "window_quantity": 0,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -17.34949572299852,
+                                        "y": 34.73621834880953,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -14.915286018143115,
+                                        "y": 35.78396865219854,
+                                        "z": 3
+                                }
+                        },
+                        "class": "InternalHallway"
+                },
+                {
+                        "id": "1603757623",
+                        "x": -0.24665477066024244,
+                        "y": 39.03313759303542,
+                        "z": 1.5,
+                        "width": 8.158076048837959,
+                        "height": 3,
+                        "depth": 8.868793568068426,
+                        "area": 72.35229238974718,
+                        "volume": 217.0568771692415,
+                        "is_internal": "True",
+                        "door_opening_quantity": 8,
+                        "window_quantity": 4,
+                        "max_door_width": 1.2000000000000028,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.400951263150285,
+                                        "y": 37.572510170092755,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 9.373598015002477,
+                                        "y": 49.521181629977775,
+                                        "z": 3
+                                }
+                        },
+                        "class": "LivingRoom"
+                },
+                {
+                        "id": "1609239270",
+                        "x": -34.35143514611952,
+                        "y": 34.61448881356124,
+                        "z": 1.5,
+                        "width": 0.3915411133755526,
+                        "height": 3,
+                        "depth": 3.503296014422517,
+                        "area": 1.3716844219711284,
+                        "volume": 4.115053265913385,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -36.10308315333078,
+                                        "y": 34.41871825687346,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -32.59978713890826,
+                                        "y": 34.810259370249014,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "1619831749",
+                        "x": -3.8344693095561406,
+                        "y": 46.58430577956919,
+                        "z": 1.4999999999999996,
+                        "width": 3.619628048107898,
+                        "height": 3,
+                        "depth": 5.8737517008171665,
+                        "area": 21.26079640389929,
+                        "volume": 63.78238921169789,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 2,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.6442833336100895,
+                                        "y": 43.64742992916061,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.024655285502191,
+                                        "y": 49.521181629977775,
+                                        "z": 3
+                                }
+                        },
+                        "class": "MasterBedroom"
+                },
+                {
+                        "id": "1630785079",
+                        "x": -4.358471461287418,
+                        "y": 37.11219853680385,
+                        "z": 1.5,
+                        "width": 0.9206232665778059,
+                        "height": 3,
+                        "depth": 2.084959603725734,
+                        "area": 1.9194623210647528,
+                        "volume": 5.758386963194258,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.400951263150285,
+                                        "y": 36.65188690351495,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -3.315991659424551,
+                                        "y": 37.572510170092755,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "1692420225",
+                        "x": -17.778120847112206,
+                        "y": 28.248611970243182,
+                        "z": 1.5,
+                        "width": 0.8572502482273734,
+                        "height": 3,
+                        "depth": 2.1164556128457974,
+                        "area": 1.8143320994742775,
+                        "volume": 5.442996298422832,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -18.206745971225892,
+                                        "y": 27.190384163820283,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -17.34949572299852,
+                                        "y": 29.30683977666608,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "1722513039",
+                        "x": -19.968807981452652,
+                        "y": 34.37636374460917,
+                        "z": 1.5000000000000013,
+                        "width": 0.6772911961180057,
+                        "height": 3,
+                        "depth": 1.3018773769746304,
+                        "area": 0.8817500858501192,
+                        "volume": 2.6452502575503556,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -20.619746669939964,
+                                        "y": 34.03771814655019,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -19.317869292965334,
+                                        "y": 34.715009342668196,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "1781645265",
+                        "x": -3.8344693095561406,
+                        "y": 42.41978407368063,
+                        "z": 1.5,
+                        "width": 2.4552917109599544,
+                        "height": 3,
+                        "depth": 3.6196280481078986,
+                        "area": 8.887242743277483,
+                        "volume": 26.66172822983245,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -5.64428333361009,
+                                        "y": 41.192138218200654,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.0246552855021913,
+                                        "y": 43.64742992916061,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bathroom"
+                },
+                {
+                        "id": "1804719994",
+                        "x": -25.41926855970066,
+                        "y": 25.163590576937228,
+                        "z": 1.5,
+                        "width": 3.7994601001804824,
+                        "height": 3,
+                        "depth": 5.619751627268322,
+                        "area": 21.352022080730325,
+                        "volume": 64.05606624219098,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -27.318998609790903,
+                                        "y": 22.353714763303067,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -23.51953850961042,
+                                        "y": 27.97346639057139,
+                                        "z": 3
+                                }
+                        },
+                        "class": "MasterBedroom"
+                },
+                {
+                        "id": "1874261896",
+                        "x": -3.4165121885315104,
+                        "y": 31.831092507594548,
+                        "z": 1.5,
+                        "width": 2.0002505791972,
+                        "height": 3,
+                        "depth": 2.7834598059850766,
+                        "area": 5.567617089093774,
+                        "volume": 16.702851267281325,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 0,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -4.808242091524049,
+                                        "y": 30.830967217995948,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.024782285538972,
+                                        "y": 32.83121779719315,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bathroom"
+                },
+                {
+                        "id": "1883835523",
+                        "x": 3.325157763602079,
+                        "y": 42.276909032309405,
+                        "z": 1.5,
+                        "width": 3.2490419408001117,
+                        "height": 3,
+                        "depth": 3.5876240388407363,
+                        "area": 11.656340970016242,
+                        "volume": 34.96902291004872,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 1,
+                        "max_door_width": 1.2000000000000028,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 1.5313457441817104,
+                                        "y": 40.65238806190935,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 5.118969783022447,
+                                        "y": 43.90143000270946,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Kitchen"
+                },
+                {
+                        "id": "1884653428",
+                        "x": -20.21220355193084,
+                        "y": 28.248611970243182,
+                        "z": 1.5,
+                        "width": 0.81508623601826,
+                        "height": 3,
+                        "depth": 2.1164556128457974,
+                        "area": 1.7250938391742008,
+                        "volume": 5.175281517522603,
+                        "is_internal": "True",
+                        "door_opening_quantity": 0,
+                        "window_quantity": 0,
+                        "max_door_width": -1000,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -20.61974666993997,
+                                        "y": 27.190384163820283,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -19.80466043392171,
+                                        "y": 29.30683977666608,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Shaft"
+                },
+                {
+                        "id": "1932071732",
+                        "x": -21.48728392114605,
+                        "y": 29.57157135332237,
+                        "z": 1.5,
+                        "width": 9.849244783967793,
+                        "height": 3,
+                        "depth": 8.234174384306638,
+                        "area": 81.10039910491336,
+                        "volume": 243.30119731474008,
+                        "is_internal": "True",
+                        "door_opening_quantity": 8,
+                        "window_quantity": 4,
+                        "max_door_width": 1.2000000000000028,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -36.10308315333078,
+                                        "y": 27.296175194453383,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -20.619746669939968,
+                                        "y": 39.65746977381849,
+                                        "z": 3
+                                }
+                        },
+                        "class": "LivingRoom"
+                },
+                {
+                        "id": "1988153597",
+                        "x": -6.485658577240653,
+                        "y": 32.53486321138003,
+                        "z": 1.5,
+                        "width": 1.6827504872611394,
+                        "height": 3,
+                        "depth": 3.0057098703403256,
+                        "area": 5.057859748880799,
+                        "volume": 15.173579246642397,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -7.327033820871227,
+                                        "y": 31.032008276209865,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -5.644283333610083,
+                                        "y": 34.03771814655019,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bathroom"
+                },
+                {
+                        "id": "1999125299",
+                        "x": -14.629535935400662,
+                        "y": 29.111196220015074,
+                        "z": 1.5,
+                        "width": 3.090418894868858,
+                        "height": 3,
+                        "depth": 3.8416241123895816,
+                        "area": 11.872227743912568,
+                        "volume": 35.6166832317377,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 1,
+                        "max_door_width": 1.2000000000000028,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -16.17474538283509,
+                                        "y": 27.190384163820283,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -13.084326487966234,
+                                        "y": 31.032008276209865,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Kitchen"
+                },
+                {
+                        "id": "2010861596",
+                        "x": -6.971157672832634,
+                        "y": 36.98221318858498,
+                        "z": 1.5,
+                        "width": 2.782358260762153,
+                        "height": 3,
+                        "depth": 5.6197516272683,
+                        "area": 15.636162363561507,
+                        "volume": 46.90848709068452,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 1,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -8.39599313040155,
+                                        "y": 34.03771814655019,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -5.400951263150284,
+                                        "y": 39.65746977381849,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bedroom"
+                },
+                {
+                        "id": "2014889240",
+                        "x": -28.5202284576218,
+                        "y": 27.095070636221074,
+                        "z": 1.5,
+                        "width": 1.7567915087006298,
+                        "height": 3,
+                        "depth": 2.402459695661797,
+                        "area": 4.220620793334144,
+                        "volume": 12.661862380002432,
+                        "is_internal": "True",
+                        "door_opening_quantity": 4,
+                        "window_quantity": 0,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -29.7214583054527,
+                                        "y": 26.21667488187076,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -27.318998609790903,
+                                        "y": 27.97346639057139,
+                                        "z": 3
+                                }
+                        },
+                        "class": "InternalHallway"
+                },
+                {
+                        "id": "2023855393",
+                        "x": 3.32515776360208,
+                        "y": 29.592589859408534,
+                        "z": 1.5,
+                        "width": 3.259836943925933,
+                        "height": 3,
+                        "depth": 3.587624038840729,
+                        "area": 11.695069382729773,
+                        "volume": 35.08520814818931,
+                        "is_internal": "True",
+                        "door_opening_quantity": 2,
+                        "window_quantity": 1,
+                        "max_door_width": 1.2000000000000028,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 1.5313457441817153,
+                                        "y": 27.962671387445567,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 5.118969783022445,
+                                        "y": 31.2225083313715,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Kitchen"
+                },
+                {
+                        "id": "2114464612",
+                        "x": -34.35143514611952,
+                        "y": 33.41338596576711,
+                        "z": 1.5,
+                        "width": 2.010664582212698,
+                        "height": 3,
+                        "depth": 3.503296014422517,
+                        "area": 7.04395321720626,
+                        "volume": 21.13185965161878,
+                        "is_internal": "True",
+                        "door_opening_quantity": 1,
+                        "window_quantity": 0,
+                        "max_door_width": 0.7999999999999972,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -36.10308315333078,
+                                        "y": 32.40805367466076,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -32.59978713890826,
+                                        "y": 34.41871825687346,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Bathroom"
+                },
+                {
+                        "id": "4235752471",
+                        "x": -18.98462119646924,
+                        "y": 31.672278961608136,
+                        "z": 1.5,
+                        "width": 3.270250946941454,
+                        "height": 3,
+                        "depth": 4.73087836988411,
+                        "area": 15.471159468978353,
+                        "volume": 46.413478406935056,
+                        "is_internal": "True",
+                        "door_opening_quantity": 3,
+                        "window_quantity": 1,
+                        "max_door_width": 1.3999999999999986,
+                        "encloses_ws": "nan",
+                        "is_contained_in_ws": "nan",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -20.61974666993997,
+                                        "y": 29.30683977666608,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -17.349495722998515,
+                                        "y": 34.03771814655019,
+                                        "z": 3
+                                }
+                        },
+                        "class": "Stairway"
+                }
+        ],
+        "space_element_set": [
+                {
+                        "id": "56083045",
+                        "x": 1.53134574418171,
+                        "y": 42.32518025349128,
+                        "z": 1.05,
+                        "width": 1.2000000000000028,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.5200000000000062,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 1.53134574418171,
+                                        "y": 41.72518025349128,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 1.53134574418171,
+                                        "y": 42.925180253491284,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "108620447",
+                        "x": -18.916745971225893,
+                        "y": 29.306839776666095,
+                        "z": 1.05,
+                        "width": 1.3999999999999986,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.9399999999999973,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -19.616745971225892,
+                                        "y": 29.30683977666608,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -18.216745971225894,
+                                        "y": 29.30683977666608,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "ElevatorDoor"
+                },
+                {
+                        "id": "180714160",
+                        "x": -9.518588787951838,
+                        "y": 34.0377181465502,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -9.918588787951837,
+                                        "y": 34.03771814655019,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -9.11858878795184,
+                                        "y": 34.03771814655019,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "231351456",
+                        "x": -32.59978713890826,
+                        "y": 32.97797603452443,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -32.59978713890826,
+                                        "y": 32.57797603452443,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -32.59978713890826,
+                                        "y": 33.37797603452443,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "252334159",
+                        "x": -2.024782285538973,
+                        "y": 27.557466096375983,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -2.0247822855389734,
+                                        "y": 27.157466096375984,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.0247822855389734,
+                                        "y": 27.95746609637598,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "278230927",
+                        "x": 1.531345744181717,
+                        "y": 29.56836083085264,
+                        "z": 1.05,
+                        "width": 1.2000000000000028,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.5200000000000062,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 1.5313457441817169,
+                                        "y": 28.96836083085264,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 1.5313457441817169,
+                                        "y": 30.16836083085264,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "328491111",
+                        "x": 5.1189697830224485,
+                        "y": 42.32518025349128,
+                        "z": 1.05,
+                        "width": 1.2000000000000028,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.5200000000000062,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 5.118969783022448,
+                                        "y": 41.72518025349128,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 5.118969783022448,
+                                        "y": 42.925180253491284,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "367705929",
+                        "x": -17.349495722998515,
+                        "y": 35.19060723639603,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -17.34949572299852,
+                                        "y": 34.790607236396035,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -17.34949572299852,
+                                        "y": 35.59060723639603,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "454309106",
+                        "x": 0.23279286343756134,
+                        "y": 26.95746609637598,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -0.16720713656243724,
+                                        "y": 26.95746609637598,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 0.6327928634375599,
+                                        "y": 26.95746609637598,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "475265625",
+                        "x": -28.313789897844966,
+                        "y": 38.117719617527186,
+                        "z": 1.2,
+                        "width": 2,
+                        "height": 2.4,
+                        "depth": 0,
+                        "area": 4.8,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -28.313789897844963,
+                                        "y": 37.117719617527186,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -28.313789897844963,
+                                        "y": 39.117719617527186,
+                                        "z": 2.4
+                                }
+                        },
+                        "class": "BalconyDoor"
+                },
+                {
+                        "id": "497175499",
+                        "x": -28.039255637554042,
+                        "y": 26.216674881870745,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -28.43925563755404,
+                                        "y": 26.21667488187076,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -27.639255637554044,
+                                        "y": 26.21667488187076,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "530947298",
+                        "x": 7.9004231989070135,
+                        "y": 40.652388061909335,
+                        "z": 1.2000000000000017,
+                        "width": 2,
+                        "height": 2.4000000000000035,
+                        "depth": 0,
+                        "area": 4.800000000000007,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 6.9004231989070135,
+                                        "y": 40.65238806190934,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 8.900423198907014,
+                                        "y": 40.65238806190935,
+                                        "z": 2.4000000000000035
+                                }
+                        },
+                        "class": "BalconyDoor"
+                },
+                {
+                        "id": "607560102",
+                        "x": -14.915286018143117,
+                        "y": 35.19060723639603,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -14.915286018143115,
+                                        "y": 34.790607236396035,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -14.915286018143114,
+                                        "y": 35.59060723639603,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "618384735",
+                        "x": -3.7395006624876093,
+                        "y": 43.6474299291606,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -4.139500662487608,
+                                        "y": 43.64742992916061,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -3.3395006624876107,
+                                        "y": 43.64742992916061,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "646140383",
+                        "x": -20.619746669939968,
+                        "y": 29.96980331611012,
+                        "z": 1.049999999999989,
+                        "width": 0.8999999999999986,
+                        "height": 2.1000000000000005,
+                        "depth": 0,
+                        "area": 1.8899999999999975,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -20.61974666993997,
+                                        "y": 29.51980331611012,
+                                        "z": -1.1546319456101628e-14
+                                },
+                                "pos_max": {
+                                        "x": -20.61974666993997,
+                                        "y": 30.41980331611012,
+                                        "z": 2.099999999999989
+                                }
+                        },
+                        "class": "UnitDoor"
+                },
+                {
+                        "id": "695737414",
+                        "x": -14.774824259920614,
+                        "y": 31.032008276209865,
+                        "z": 1.05,
+                        "width": 1.2000000000000028,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.5200000000000062,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -15.374824259920615,
+                                        "y": 31.032008276209865,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -14.174824259920612,
+                                        "y": 31.032008276209865,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "717669903",
+                        "x": -2.665991659424552,
+                        "y": 37.572510170092755,
+                        "z": 1.0500000000000003,
+                        "width": 0.8999999999999986,
+                        "height": 2.1000000000000005,
+                        "depth": 0,
+                        "area": 1.8899999999999975,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -3.115991659424551,
+                                        "y": 37.572510170092755,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.2159916594245526,
+                                        "y": 37.572510170092755,
+                                        "z": 2.1000000000000005
+                                }
+                        },
+                        "class": "UnitDoor"
+                },
+                {
+                        "id": "802314400",
+                        "x": -29.99458184783869,
+                        "y": 31.169803316110126,
+                        "z": 1.05,
+                        "width": 1.2000000000000028,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.5200000000000062,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -30.59458184783869,
+                                        "y": 31.16980331611012,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -29.394581847838687,
+                                        "y": 31.16980331611012,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "840184820",
+                        "x": -32.59978713890826,
+                        "y": 31.438381617018557,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -32.59978713890826,
+                                        "y": 31.03838161701856,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -32.59978713890826,
+                                        "y": 31.838381617018555,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "864524198",
+                        "x": 2.901722816807559,
+                        "y": 44.9067622938158,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 2.5017228168075603,
+                                        "y": 44.90676229381582,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 3.3017228168075574,
+                                        "y": 44.90676229381582,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "883051857",
+                        "x": -28.213083518879042,
+                        "y": 27.97346639057139,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -28.61308351887904,
+                                        "y": 27.97346639057139,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -27.813083518879044,
+                                        "y": 27.97346639057139,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1001910419",
+                        "x": -7.906992872980574,
+                        "y": 34.0377181465502,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -8.306992872980572,
+                                        "y": 34.03771814655019,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -7.506992872980575,
+                                        "y": 34.03771814655019,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1012241985",
+                        "x": 5.118969783022445,
+                        "y": 29.568360830852637,
+                        "z": 1.05,
+                        "width": 1.2000000000000028,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.5200000000000062,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 5.118969783022444,
+                                        "y": 28.968360830852635,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 5.118969783022445,
+                                        "y": 30.168360830852638,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1012473591",
+                        "x": -3.31599165942455,
+                        "y": 35.76371844074558,
+                        "z": 1.05,
+                        "width": 1.3999999999999984,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.939999999999997,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -3.3159916594245495,
+                                        "y": 35.06371844074558,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -3.3159916594245495,
+                                        "y": 36.46371844074558,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "ElevatorDoor"
+                },
+                {
+                        "id": "1076397313",
+                        "x": -27.31899860979089,
+                        "y": 24.312238716424222,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -27.318998609790896,
+                                        "y": 23.912238716424223,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -27.318998609790896,
+                                        "y": 24.71223871642422,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1077295875",
+                        "x": -3.454088403127278,
+                        "y": 28.35446650089466,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -3.8540884031272764,
+                                        "y": 28.35446650089466,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -3.0540884031272792,
+                                        "y": 28.35446650089466,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1128220305",
+                        "x": -3.572990326174817,
+                        "y": 32.83121779719315,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -3.9729903261748154,
+                                        "y": 32.83121779719315,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -3.1729903261748182,
+                                        "y": 32.83121779719315,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1154714336",
+                        "x": -8.39599313040155,
+                        "y": 36.18661759861244,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -8.39599313040155,
+                                        "y": 35.786617598612445,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -8.39599313040155,
+                                        "y": 36.58661759861244,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1173140018",
+                        "x": -2.6659916594245514,
+                        "y": 34.3022592231513,
+                        "z": 1.0500000000000003,
+                        "width": 0.8999999999999986,
+                        "height": 2.1000000000000005,
+                        "depth": 0,
+                        "area": 1.8899999999999975,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -3.1159916594245507,
+                                        "y": 34.30225922315131,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.215991659424552,
+                                        "y": 34.30225922315131,
+                                        "z": 2.1000000000000005
+                                }
+                        },
+                        "class": "UnitDoor"
+                },
+                {
+                        "id": "1331360565",
+                        "x": -2.0246552855021918,
+                        "y": 44.306762293815815,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -2.0246552855021918,
+                                        "y": 43.90676229381582,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -2.0246552855021918,
+                                        "y": 44.706762293815814,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1432134012",
+                        "x": -13.084326487966223,
+                        "y": 23.916967100330282,
+                        "z": 1.2,
+                        "width": 2,
+                        "height": 2.4,
+                        "depth": 0,
+                        "area": 4.8,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -13.08432648796623,
+                                        "y": 22.916967100330282,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -13.08432648796623,
+                                        "y": 24.916967100330282,
+                                        "z": 2.4
+                                }
+                        },
+                        "class": "BalconyDoor"
+                },
+                {
+                        "id": "1490729490",
+                        "x": 0.2327928634375631,
+                        "y": 44.9067622938158,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -0.16720713656243547,
+                                        "y": 44.90676229381582,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 0.6327928634375617,
+                                        "y": 44.90676229381582,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1509477049",
+                        "x": -14.774824259920614,
+                        "y": 27.190384163820287,
+                        "z": 1.05,
+                        "width": 1.2000000000000028,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.5200000000000062,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -15.374824259920615,
+                                        "y": 27.190384163820283,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -14.174824259920612,
+                                        "y": 27.190384163820283,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1551059514",
+                        "x": 2.901722816807557,
+                        "y": 26.95746609637598,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 2.5017228168075585,
+                                        "y": 26.95746609637598,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 3.3017228168075556,
+                                        "y": 26.95746609637598,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1580091068",
+                        "x": -14.915286018143117,
+                        "y": 37.7243188604474,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -14.915286018143115,
+                                        "y": 37.3243188604474,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -14.915286018143114,
+                                        "y": 38.124318860447396,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1594595866",
+                        "x": -3.4480887993489633,
+                        "y": 39.03313759303541,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -3.848088799348962,
+                                        "y": 39.03313759303542,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -3.0480887993489647,
+                                        "y": 39.03313759303542,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1672813390",
+                        "x": -27.318998609790903,
+                        "y": 26.801650342415083,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -27.318998609790903,
+                                        "y": 26.401650342415085,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -27.318998609790903,
+                                        "y": 27.201650342415082,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1749101762",
+                        "x": -11.49683629872716,
+                        "y": 36.18661759861244,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -11.496836298727166,
+                                        "y": 35.786617598612445,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -11.496836298727166,
+                                        "y": 36.58661759861244,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1811844249",
+                        "x": -16.130614747797477,
+                        "y": 34.73621834880953,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -16.530614747797475,
+                                        "y": 34.73621834880953,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -15.730614747797478,
+                                        "y": 34.73621834880953,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "1843525744",
+                        "x": -17.349495722998515,
+                        "y": 29.95683977666608,
+                        "z": 1.0500000000000003,
+                        "width": 0.8999999999999986,
+                        "height": 2.1000000000000005,
+                        "depth": 0,
+                        "area": 1.8899999999999975,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -17.34949572299852,
+                                        "y": 29.50683977666608,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -17.34949572299852,
+                                        "y": 30.40683977666608,
+                                        "z": 2.1000000000000005
+                                }
+                        },
+                        "class": "UnitDoor"
+                },
+                {
+                        "id": "1905037533",
+                        "x": 7.801236857642053,
+                        "y": 31.2225083313715,
+                        "z": 1.2,
+                        "width": 2,
+                        "height": 2.4,
+                        "depth": 0,
+                        "area": 4.8,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": 6.801236857642053,
+                                        "y": 31.2225083313715,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": 8.801236857642053,
+                                        "y": 31.2225083313715,
+                                        "z": 2.4
+                                }
+                        },
+                        "class": "BalconyDoor"
+                },
+                {
+                        "id": "1994183687",
+                        "x": -22.62010993426325,
+                        "y": 27.97346639057139,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -23.02010993426325,
+                                        "y": 27.97346639057139,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -22.220109934263252,
+                                        "y": 27.97346639057139,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "2008552198",
+                        "x": -29.99458184783869,
+                        "y": 34.810259370249014,
+                        "z": 1.05,
+                        "width": 1.2000000000000028,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 2.5200000000000062,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -30.59458184783869,
+                                        "y": 34.810259370249014,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -29.394581847838687,
+                                        "y": 34.810259370249014,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "2078293492",
+                        "x": -7.327033820871227,
+                        "y": 31.65803300728154,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -7.327033820871227,
+                                        "y": 31.25803300728154,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -7.327033820871227,
+                                        "y": 32.05803300728154,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                },
+                {
+                        "id": "2131953313",
+                        "x": -29.7214583054527,
+                        "y": 26.801650342415083,
+                        "z": 1.05,
+                        "width": 0.7999999999999972,
+                        "height": 2.1,
+                        "depth": 0,
+                        "area": 1.6799999999999942,
+                        "volume": "nan",
+                        "is_internal": "nan",
+                        "door_opening_quantity": "nan",
+                        "window_quantity": "nan",
+                        "max_door_width": "nan",
+                        "encloses_ws": "True",
+                        "is_contained_in_ws": "False",
+                        "bounding_box": {
+                                "pos_min": {
+                                        "x": -29.7214583054527,
+                                        "y": 26.401650342415085,
+                                        "z": 0
+                                },
+                                "pos_max": {
+                                        "x": -29.7214583054527,
+                                        "y": 27.201650342415082,
+                                        "z": 2.1
+                                }
+                        },
+                        "class": "InternalDoor"
+                }
+        ],
+        "space_access_relation": [
+                {
+                        "id": "604609528",
+                        "source": 56083045,
+                        "target": 1603757623,
+                        "z_angle": 6.8581689873907985,
+                        "delta_z": 0.44999999999999996,
+                        "length": 3.7684652989034624
+                },
+                {
+                        "id": "66360477",
+                        "source": 56083045,
+                        "target": 1883835523,
+                        "z_angle": 14.077846179127794,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.85002477599933
+                },
+                {
+                        "id": "1160279464",
+                        "source": 108620447,
+                        "target": 560965261,
+                        "z_angle": 22.96454432147206,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.1533687525226852
+                },
+                {
+                        "id": "400517831",
+                        "source": 108620447,
+                        "target": 4235752471,
+                        "z_angle": 10.766883447430162,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.408819126431269
+                },
+                {
+                        "id": "889251555",
+                        "source": 180714160,
+                        "target": 1040521014,
+                        "z_angle": 4.51531195765807,
+                        "delta_z": 0.44999999999999996,
+                        "length": 5.7160630887409365
+                },
+                {
+                        "id": "1523802558",
+                        "source": 180714160,
+                        "target": 1384487503,
+                        "z_angle": 8.996664241989324,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.8776617437648917
+                },
+                {
+                        "id": "654678142",
+                        "source": 231351456,
+                        "target": 1932071732,
+                        "z_angle": 2.2171984327423555,
+                        "delta_z": 0.44999999999999996,
+                        "length": 11.63158719250691
+                },
+                {
+                        "id": "1486181580",
+                        "source": 231351456,
+                        "target": 2114464612,
+                        "z_angle": 13.999248832048856,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.8602022872236046
+                },
+                {
+                        "id": "1322503417",
+                        "source": 252334159,
+                        "target": 741538968,
+                        "z_angle": 8.968521527159318,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.8866174661401485
+                },
+                {
+                        "id": "489868671",
+                        "source": 252334159,
+                        "target": 1032385343,
+                        "z_angle": 13.861270253808534,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.8783511303406668
+                },
+                {
+                        "id": "888751819",
+                        "source": 278230927,
+                        "target": 1032385343,
+                        "z_angle": 10.637944975200213,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.4376731178749584
+                },
+                {
+                        "id": "1261298060",
+                        "source": 278230927,
+                        "target": 2023855393,
+                        "z_angle": 14.081506329430628,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.8495536236729453
+                },
+                {
+                        "id": "1651315860",
+                        "source": 328491111,
+                        "target": 1603757623,
+                        "z_angle": 4.088827936997709,
+                        "delta_z": 0.44999999999999996,
+                        "length": 6.311099090439311
+                },
+                {
+                        "id": "1449401507",
+                        "source": 328491111,
+                        "target": 1883835523,
+                        "z_angle": 14.077846179127787,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.850024775999331
+                },
+                {
+                        "id": "698454886",
+                        "source": 367705929,
+                        "target": 422068090,
+                        "z_angle": 10.685362211242499,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.42698059753739
+                },
+                {
+                        "id": "1979908143",
+                        "source": 367705929,
+                        "target": 1600375332,
+                        "z_angle": 20.260554264720383,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.2994893468985182
+                },
+                {
+                        "id": "1715906627",
+                        "source": 454309106,
+                        "target": 1032385343,
+                        "z_angle": 22.00126356574921,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.2011946573872572
+                },
+                {
+                        "id": "4248692612",
+                        "source": 454309106,
+                        "target": 1428191887,
+                        "z_angle": 10.834500946039475,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.393963765793885
+                },
+                {
+                        "id": "1445185274",
+                        "source": 475265625,
+                        "target": 659525448,
+                        "z_angle": 4.458210565627539,
+                        "delta_z": 0.2999999999999998,
+                        "length": 3.8594163800098307
+                },
+                {
+                        "id": "1267934045",
+                        "source": 475265625,
+                        "target": 1932071732,
+                        "z_angle": 1.5710888609311868,
+                        "delta_z": 0.30000000000000004,
+                        "length": 10.94202147702503
+                },
+                {
+                        "id": "1014090500",
+                        "source": 497175499,
+                        "target": 1398447259,
+                        "z_angle": 12.739150404508145,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.040698427758253
+                },
+                {
+                        "id": "4255853699",
+                        "source": 497175499,
+                        "target": 2014889240,
+                        "z_angle": 24.196566380199535,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.0979134551068297
+                },
+                {
+                        "id": "640765417",
+                        "source": 530947298,
+                        "target": 1105666844,
+                        "z_angle": 7.243296008789344,
+                        "delta_z": 0.29999999999999827,
+                        "length": 2.3793869515491
+                },
+                {
+                        "id": "246792881",
+                        "source": 530947298,
+                        "target": 1603757623,
+                        "z_angle": 2.0684285556390734,
+                        "delta_z": 0.29999999999999827,
+                        "length": 8.31185006621008
+                },
+                {
+                        "id": "1417148551",
+                        "source": 607560102,
+                        "target": 243658114,
+                        "z_angle": 10.027896010290972,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.5843111775375287
+                },
+                {
+                        "id": "155545946",
+                        "source": 607560102,
+                        "target": 1600375332,
+                        "z_angle": 20.260554264720383,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.2994893468985182
+                },
+                {
+                        "id": "669213195",
+                        "source": 618384735,
+                        "target": 1619831749,
+                        "z_angle": 8.706857781485386,
+                        "delta_z": 0.4499999999999995,
+                        "length": 2.9726686335074763
+                },
+                {
+                        "id": "1245189688",
+                        "source": 618384735,
+                        "target": 1781645265,
+                        "z_angle": 20.07550460237432,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.3109665863030893
+                },
+                {
+                        "id": "737925433",
+                        "source": 646140383,
+                        "target": 1932071732,
+                        "z_angle": 25.23989196580554,
+                        "delta_z": 0.45000000000001106,
+                        "length": 1.0553243948739186
+                },
+                {
+                        "id": "4240362399",
+                        "source": 646140383,
+                        "target": 4235752471,
+                        "z_angle": 10.793127567926085,
+                        "delta_z": 0.45000000000001106,
+                        "length": 2.4030311353594156
+                },
+                {
+                        "id": "4256490333",
+                        "source": 695737414,
+                        "target": 1040521014,
+                        "z_angle": 8.42547216473029,
+                        "delta_z": 0.44999999999999996,
+                        "length": 3.0711940029376206
+                },
+                {
+                        "id": "1714578591",
+                        "source": 695737414,
+                        "target": 1999125299,
+                        "z_angle": 13.148978634310982,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.9781626961564802
+                },
+                {
+                        "id": "1520398993",
+                        "source": 717669903,
+                        "target": 36205056,
+                        "z_angle": 10.566423655437719,
+                        "delta_z": 0.44999999999999973,
+                        "length": 2.4539836954936893
+                },
+                {
+                        "id": "1606095455",
+                        "source": 717669903,
+                        "target": 1603757623,
+                        "z_angle": 9.047378450261691,
+                        "delta_z": 0.44999999999999973,
+                        "length": 2.86166445447189
+                },
+                {
+                        "id": "674559824",
+                        "source": 802314400,
+                        "target": 363102877,
+                        "z_angle": 13.883042556952418,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.8754631175592482
+                },
+                {
+                        "id": "778170540",
+                        "source": 802314400,
+                        "target": 1932071732,
+                        "z_angle": 2.9759179445140456,
+                        "delta_z": 0.44999999999999996,
+                        "length": 8.66781191653264
+                },
+                {
+                        "id": "319029777",
+                        "source": 840184820,
+                        "target": 1029572238,
+                        "z_angle": 11.409306898971858,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.2748347217908154
+                },
+                {
+                        "id": "1220555761",
+                        "source": 840184820,
+                        "target": 1932071732,
+                        "z_angle": 2.2869108690397275,
+                        "delta_z": 0.44999999999999996,
+                        "length": 11.277198602730063
+                },
+                {
+                        "id": "364063609",
+                        "source": 864524198,
+                        "target": 701645934,
+                        "z_angle": 11.235689616610516,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.309523916990686
+                },
+                {
+                        "id": "1995574476",
+                        "source": 864524198,
+                        "target": 1603757623,
+                        "z_angle": 3.863024301671179,
+                        "delta_z": 0.44999999999999996,
+                        "length": 6.679389834325214
+                },
+                {
+                        "id": "1400303422",
+                        "source": 883051857,
+                        "target": 1932071732,
+                        "z_angle": 3.7243706496833027,
+                        "delta_z": 0.44999999999999996,
+                        "length": 6.927685017437973
+                },
+                {
+                        "id": "2018741658",
+                        "source": 883051857,
+                        "target": 2014889240,
+                        "z_angle": 25.807793294925112,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.0336426435939803
+                },
+                {
+                        "id": "1025744986",
+                        "source": 1001910419,
+                        "target": 1040521014,
+                        "z_angle": 3.5226939768150554,
+                        "delta_z": 0.44999999999999996,
+                        "length": 7.323756178755697
+                },
+                {
+                        "id": "476699121",
+                        "source": 1001910419,
+                        "target": 2010861596,
+                        "z_angle": 8.286764797439645,
+                        "delta_z": 0.44999999999999996,
+                        "length": 3.122232946851234
+                },
+                {
+                        "id": "1357943293",
+                        "source": 1012241985,
+                        "target": 1032385343,
+                        "z_angle": 4.5936082056341405,
+                        "delta_z": 0.44999999999999996,
+                        "length": 5.61883857022956
+                },
+                {
+                        "id": "4209913269",
+                        "source": 1012241985,
+                        "target": 2023855393,
+                        "z_angle": 14.081506329430614,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.8495536236729473
+                },
+                {
+                        "id": "1138783792",
+                        "source": 1012473591,
+                        "target": 36205056,
+                        "z_angle": 10.491972223442769,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.4712001020820265
+                },
+                {
+                        "id": "556912170",
+                        "source": 1012473591,
+                        "target": 1038057607,
+                        "z_angle": 23.272323926690753,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.1389469423873286
+                },
+                {
+                        "id": "4236242671",
+                        "source": 1076397313,
+                        "target": 1398447259,
+                        "z_angle": 20.531988561706186,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.2830372245238097
+                },
+                {
+                        "id": "413948433",
+                        "source": 1076397313,
+                        "target": 1804719994,
+                        "z_angle": 12.19750164800141,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.129853106111962
+                },
+                {
+                        "id": "268461093",
+                        "source": 1077295875,
+                        "target": 741538968,
+                        "z_angle": 8.462943380290584,
+                        "delta_z": 0.44999999999999996,
+                        "length": 3.057694114925349
+                },
+                {
+                        "id": "1810249147",
+                        "source": 1077295875,
+                        "target": 1335279322,
+                        "z_angle": 19.96349109103273,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.3180196972557527
+                },
+                {
+                        "id": "1524634642",
+                        "source": 1128220305,
+                        "target": 1032385343,
+                        "z_angle": 4.364269237859357,
+                        "delta_z": 0.44999999999999996,
+                        "length": 5.913487121068318
+                },
+                {
+                        "id": "1849853732",
+                        "source": 1128220305,
+                        "target": 1874261896,
+                        "z_angle": 23.966848682410777,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.1078068434772377
+                },
+                {
+                        "id": "1021910589",
+                        "source": 1154714336,
+                        "target": 1384487503,
+                        "z_angle": 14.948878349339955,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.7444760930419
+                },
+                {
+                        "id": "999447662",
+                        "source": 1154714336,
+                        "target": 2010861596,
+                        "z_angle": 15.416225858509886,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.6928167130346299
+                },
+                {
+                        "id": "134359169",
+                        "source": 1173140018,
+                        "target": 36205056,
+                        "z_angle": 10.566423655437694,
+                        "delta_z": 0.44999999999999973,
+                        "length": 2.4539836954936938
+                },
+                {
+                        "id": "823619630",
+                        "source": 1173140018,
+                        "target": 1032385343,
+                        "z_angle": 3.7941688437615704,
+                        "delta_z": 0.44999999999999973,
+                        "length": 6.800423343889871
+                },
+                {
+                        "id": "2043035771",
+                        "source": 1331360565,
+                        "target": 1603757623,
+                        "z_angle": 4.622786967976045,
+                        "delta_z": 0.44999999999999996,
+                        "length": 5.583449051926538
+                },
+                {
+                        "id": "631764081",
+                        "source": 1331360565,
+                        "target": 1619831749,
+                        "z_angle": 8.79333873536211,
+                        "delta_z": 0.4499999999999995,
+                        "length": 2.943659479484675
+                },
+                {
+                        "id": "4221059066",
+                        "source": 1432134012,
+                        "target": 128705562,
+                        "z_angle": 4.610357956418902,
+                        "delta_z": 0.30000000000000004,
+                        "length": 3.732312517566528
+                },
+                {
+                        "id": "1082963327",
+                        "source": 1432134012,
+                        "target": 1040521014,
+                        "z_angle": 1.6614064054457713,
+                        "delta_z": 0.30000000000000004,
+                        "length": 10.347343566849798
+                },
+                {
+                        "id": "1612545237",
+                        "source": 1490729490,
+                        "target": 755944746,
+                        "z_angle": 10.52149355634496,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.4643441662217236
+                },
+                {
+                        "id": "1814295710",
+                        "source": 1490729490,
+                        "target": 1603757623,
+                        "z_angle": 4.366615264368454,
+                        "delta_z": 0.44999999999999996,
+                        "length": 5.910316164086268
+                },
+                {
+                        "id": "19070779",
+                        "source": 1509477049,
+                        "target": 1040521014,
+                        "z_angle": 3.752224968986967,
+                        "delta_z": 0.44999999999999996,
+                        "length": 6.876330667592019
+                },
+                {
+                        "id": "547169917",
+                        "source": 1509477049,
+                        "target": 1999125299,
+                        "z_angle": 13.148978634311005,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.9781626961564767
+                },
+                {
+                        "id": "785035821",
+                        "source": 1551059514,
+                        "target": 876501391,
+                        "z_angle": 10.883268286039286,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.3833650031750357
+                },
+                {
+                        "id": "4224002813",
+                        "source": 1551059514,
+                        "target": 1032385343,
+                        "z_angle": 7.753528476599798,
+                        "delta_z": 0.44999999999999996,
+                        "length": 3.3355088005528497
+                },
+                {
+                        "id": "1100798295",
+                        "source": 1580091068,
+                        "target": 243658114,
+                        "z_angle": 13.32471022248398,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.952536669114803
+                },
+                {
+                        "id": "146086464",
+                        "source": 1580091068,
+                        "target": 1308195280,
+                        "z_angle": 20.290776619258907,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.2976352258106802
+                },
+                {
+                        "id": "1057244268",
+                        "source": 1594595866,
+                        "target": 749402849,
+                        "z_angle": 22.47802505823294,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.1769965779718092
+                },
+                {
+                        "id": "865008474",
+                        "source": 1594595866,
+                        "target": 1603757623,
+                        "z_angle": 8.001189717677994,
+                        "delta_z": 0.44999999999999996,
+                        "length": 3.2329057889221104
+                },
+                {
+                        "id": "862406901",
+                        "source": 1672813390,
+                        "target": 1804719994,
+                        "z_angle": 10.170404075291689,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.548472887533481
+                },
+                {
+                        "id": "99511055",
+                        "source": 1672813390,
+                        "target": 2014889240,
+                        "z_angle": 19.9972864296445,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.315883207635479
+                },
+                {
+                        "id": "1322962414",
+                        "source": 1749101762,
+                        "target": 243658114,
+                        "z_angle": 13.655347148605948,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.9061261841880208
+                },
+                {
+                        "id": "1842189747",
+                        "source": 1749101762,
+                        "target": 1384487503,
+                        "z_angle": 14.948878349339987,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.7444760930418968
+                },
+                {
+                        "id": "1291943505",
+                        "source": 1811844249,
+                        "target": 1040521014,
+                        "z_angle": 21.3687342448563,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.235012906222531
+                },
+                {
+                        "id": "724497392",
+                        "source": 1811844249,
+                        "target": 1600375332,
+                        "z_angle": 40.66186481280914,
+                        "delta_z": 0.44999999999999996,
+                        "length": 0.6906144576933254
+                },
+                {
+                        "id": "13027871",
+                        "source": 1843525744,
+                        "target": 1040521014,
+                        "z_angle": 5.581809499807464,
+                        "delta_z": 0.44999999999999973,
+                        "length": 4.626444144335308
+                },
+                {
+                        "id": "1124199306",
+                        "source": 1843525744,
+                        "target": 4235752471,
+                        "z_angle": 10.751465313199994,
+                        "delta_z": 0.44999999999999973,
+                        "length": 2.41223276472805
+                },
+                {
+                        "id": "1935636134",
+                        "source": 1905037533,
+                        "target": 898313751,
+                        "z_angle": 7.251981371331832,
+                        "delta_z": 0.30000000000000004,
+                        "length": 2.376552476336357
+                },
+                {
+                        "id": "1368687374",
+                        "source": 1905037533,
+                        "target": 1032385343,
+                        "z_angle": 1.9787761934132544,
+                        "delta_z": 0.30000000000000004,
+                        "length": 8.688274779750442
+                },
+                {
+                        "id": "1249637455",
+                        "source": 1994183687,
+                        "target": 1419393123,
+                        "z_angle": 8.681268648901183,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.9813634959655717
+                },
+                {
+                        "id": "1591187051",
+                        "source": 1994183687,
+                        "target": 1932071732,
+                        "z_angle": 12.937657778507235,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.0099090148472696
+                },
+                {
+                        "id": "151828602",
+                        "source": 2008552198,
+                        "target": 363102877,
+                        "z_angle": 13.883042556952363,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.875463117559255
+                },
+                {
+                        "id": "1527399838",
+                        "source": 2008552198,
+                        "target": 1932071732,
+                        "z_angle": 2.5789169326285695,
+                        "delta_z": 0.44999999999999996,
+                        "length": 10.001023455236952
+                },
+                {
+                        "id": "1556641500",
+                        "source": 2078293492,
+                        "target": 1040521014,
+                        "z_angle": 3.125556720299636,
+                        "delta_z": 0.44999999999999996,
+                        "length": 8.253215429654011
+                },
+                {
+                        "id": "514232652",
+                        "source": 2078293492,
+                        "target": 1988153597,
+                        "z_angle": 20.319860413232963,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.2958562834719773
+                },
+                {
+                        "id": "101232815",
+                        "source": 2131953313,
+                        "target": 515068415,
+                        "z_angle": 11.03830438055554,
+                        "delta_z": 0.44999999999999996,
+                        "length": 2.3502964652423226
+                },
+                {
+                        "id": "1714189479",
+                        "source": 2131953313,
+                        "target": 2014889240,
+                        "z_angle": 19.9972864296445,
+                        "delta_z": 0.44999999999999996,
+                        "length": 1.315883207635479
+                }
+        ],
+        "graph_bounding_box": {
+                "min_x": -36.10308315333078,
+                "min_y": 22.35371476330306,
+                "min_z": -1.1546319456101628e-14,
+                "max_x": 9.373598015002477,
+                "max_y": 49.521181629977775,
+                "max_z": 2.4000000000000035
+        }
+}
