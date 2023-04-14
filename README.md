@@ -99,5 +99,5 @@ We first used the dataset to develop two segmentation models based on [transfer 
 
 ### 4. Acknowledgments
 
-The authors (Amir Ziaee, Georg Suter) gratefully acknowledge support by Grant Austrian Science Fund (FWF): I 5171-N, Mihael Barada, and participants in course '259.428-2021S Architectural Morphology' at TU Wien for data collection.
+The authors (Amir Ziaee, Georg Suter) gratefully acknowledge support by Grant Austrian Science Fund (FWF): I 5171-N, Laura Keiblinger, and participants in course '259.428-2021S Architectural Morphology' at TU Wien for data collection.
 
