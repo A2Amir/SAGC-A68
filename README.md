@@ -96,7 +96,7 @@ Verify that the new environment was installed correctly
 
 ### 3. Model training:
 
-Since a typical GAN only takes node features into node embeddings, we extend GAN to incorporate edge features. We then used the dataset to train the extended GAN from scratch, we used a simple training strategy, starting with a learning rate of 0.001, training the model 5000 epochs, and saving the best model with the lowest error on the training dataset. The outputs of the extended GAN model for the test dataset are evaluated by Precision, Recall, and F1-Score metrics. See the [code and result](https://github.com/A2Amir/SAGC-A68/blob/main/Graph.ipynb) here.
+Since a typical Graph Attention Network only takes node features into node embeddings, we extend GAN to incorporate edge features. We then used the dataset to train the extended GAN from scratch, we used a simple training strategy, starting with a learning rate of 0.001, training the model 5000 epochs, and saving the best model with the lowest error on the training dataset. The outputs of the extended GAN model for the test dataset are evaluated by Precision, Recall, and F1-Score metrics. See the [code and result](https://github.com/A2Amir/SAGC-A68/blob/main/Graph.ipynb) here.
 
 ### 4. Acknowledgments
 
